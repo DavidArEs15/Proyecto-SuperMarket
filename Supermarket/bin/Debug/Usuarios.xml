@@ -1,0 +1,29 @@
+<Usuarios>
+  <Usuario>
+    <User>IV</User>
+    <Nombre>Isabel</Nombre>
+    <Apellidos>Gonzalez Vega</Apellidos>
+    <FechaNac>12/4/2000</FechaNac>
+    <Direccion>C/Oceanos</Direccion>
+    <Telefono>678796587</Telefono>
+    <Email>isabelGV@outlook.com</Email>
+  </Usuario>
+  <Usuario>
+    <User>DA</User>
+    <Nombre>David</Nombre>
+    <Apellidos>Arias Escribano</Apellidos>
+    <FechaNac>24/10/2001</FechaNac>
+    <Direccion>c/Paloma</Direccion>
+    <Telefono>683021748</Telefono>
+    <Email>davidArias@gmail.es</Email>
+  </Usuario>
+  <Usuario>
+    <User>GSI</User>
+    <Nombre>Gestión</Nombre>
+    <Apellidos>Sistemas Información</Apellidos>
+    <FechaNac>08/06/1996</FechaNac>
+    <Direccion>c/Feria</Direccion>
+    <Telefono>665021748</Telefono>
+    <Email>GSI@outlook.es</Email>
+  </Usuario>
+</Usuarios>

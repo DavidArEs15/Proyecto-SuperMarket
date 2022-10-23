@@ -1,0 +1,82 @@
+﻿<AyudaInfo>
+	
+	<Ayuda NombreVentana="MainWindow" Info="
+		   En esta ventana se pide que introduzca sus credenciales para poder entrar en la aplicación. 
+		   
+		   Si desea introducir su usuario debe hacer click en el rectángulo blanco que se encuentra debajo de la palabra usuario, una vez hecho esto escriba su usuario, 
+		   la aplicación indicará si el usuario es correcto o no. 
+		   
+		   Para poder escribir su contraseña primero debe haber inroducido anteriormente su usuario correctamente y haber pulsado la tecla Enter, una vez hecho esto podrá 
+		   comenzar a escribir su contraseña y, al igual que con el usuario, la aplicación le indicará si la contraseña es correcta o no. 
+		   
+		   Si ha realizado los pasos anteriores de forma correcta podrá acceder a la aplicación haciendo click en el botón Iniciar Sesión que se encuantra justo debajo del 
+		   campo de la contraseña. 
+		   
+		   Si desea cambiar el idioma de la aplicación debe hacer click en el desplegable de la esquina superior izquierda y pulse encima del idioma que quiera, esto debe 
+		   hacerlo antes de iniciar sesión en la aplicación.
+		   
+		   Por último, si lo que quiere es salir de la aplicación debe hacer click en el botón de la esquina superior derecha donde hay una cruz y la aplicación se cerrará 
+		   automáticamente."/>
+	
+	<Ayuda NombreVentana="Ver Producto" Info="
+		   Esta ventana se abrirá al pulsar el botón 'Ver Producto' de la ventana 'Productos', 
+		   donde se mostrará la información detallada del producto seleccionado en la ventana anterior, así como una fotografía de dicho producto.
+	
+		   Si desea volver a la ventana anterior solo tiene que colocarse encima de la flecha negra de la esquina inferior izquierda y pulsar. 
+		   
+		   Por último, si lo que quiere es salir de la aplicación debe hacer click en el botón de la esquina superior derecha donde hay una cruz y la aplicación se 
+		   cerrará automáticamente."/>
+	
+	<Ayuda NombreVentana="Productos" Info="
+		   En esta ventana aparece un listado de los productos de los que dispone el supermercado. 
+		   
+		   Para poder ver la información de cada producto deberá ir pulsando el nombre del producto del que quiere ver la información en la lista que se muestra
+		   y pulsar en botón de 'Ver Producto'.
+		   
+		   Si desea buscar un producto para ello tiene una barra de búsqueda en la parte superior de la ventana que le permite hacerlo, donde podrá
+		   introducir las palabras clave del producto que desea buscar, como su marca, si es vegano o sus alérgenos, por ejemplo.
+		   
+		   Por otra parte si añadir un producto a su lista de la compra podrá hacerlo seleccionádolo en la lista y pulsado tras esto el botón del símbolo +. 
+		   Tras esto le aparecerá un mensaje de que ha añadido y la cantidad de productos de ese tipo que ha añadido. También se marcará con un tick los añadidos.
+		   
+		   Si quiere puede acceder a su cesta de la compra o a su usuario con los iconos que así lo muestran en la parte superior derecha de la ventana.
+		   
+		   Si desea volver a la ventana anterior solo tiene que colocarse encima de la flecha negra de la esquina inferior izquierda y pulsar. 
+		   
+		   Por último, si lo que quiere es salir de la aplicación debe hacer click en el botón de la esquina superior derecha donde hay una cruz y la aplicación se 
+		   cerrará automáticamente."/>
+
+	<Ayuda NombreVentana="Cesta compra" Info="
+		   En esta ventana nos encontramos con los productos que hemos ido añadiendo a la cesta de la compra en la ventana anterior así como el precio total.
+		   
+		   Para poder quitar algún producto de la cesta debe seleccionarlo en la lista y pulsar el botón rojo. 
+		   
+		   Si quisiera proceder a realizar el pago deberá pulsal el botón de pagar que se encuentra en la esquina inferior derecha.
+		   
+		   Por último, si desea volver a la ventana anterior solo tiene que colocarse encima de la flecha negra de la esquina inferior derecha y pulsar o hacer click en
+		   el botón de la esquina superior derecha donde hay una cruz y la ventana se cerrará automáticamente."/>
+	
+	<Ayuda NombreVentana="Usuario" Info="
+		   En esta ventana se nos muestra la información del usuario.  
+		   
+		   Si desea modificar algún campo de texto simplemente sitúese en el rectángulo blanco del campo en el que desea realizar algún cambio y haga click, una vez 
+		   hecho esto solo tiene que borrar la información que contiene y escribir la nueva y pulsar el botón de confirmar. 
+		   
+		   Si desea volver a la ventana anterior solo tiene que colocarse encima de la flecha negra de la esquina inferior derecha y pulsar. 
+		   
+		   Por último, si lo que quiere es salir de la aplicación debe hacer click en el botón de la esquina superior derecha donde hay una cruz y la aplicación se 
+		   cerrará automáticamente."/>
+	
+	<Ayuda NombreVentana="Pago" Info="
+		   En esta ventana se nos muestran varias casillas para introducir la información que se nos indica en cada una de estas. 
+		   
+		   En la casilla de CVV se pide que introduzca el número secreto que aparece en la parte de atras de la tarjeta y consta de 3 números.
+		   
+		   Para confirmar que ya ha introducido los datos y quiere proceder a pagar debe pulsar el botón de 'Confirmar Pago'.
+		   
+		   Si desea volver a la ventana anterior solo tiene que colocarse encima de la flecha negra de la esquina inferior derecha y pulsar. 
+		   
+		   Por último, si lo que quiere es salir de la aplicación debe hacer click en el botón de la esquina superior derecha donde hay una cruz y la aplicación se 
+		   cerrará automáticamente."/>
+
+</AyudaInfo>

@@ -1,0 +1,1123 @@
+C:\Users\Carmen.Lacave\source\repos\Eventos\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\Users\Carmen.Lacave\source\repos\Eventos\obj\Debug\MainWindow.g.cs
+C:\Users\Carmen.Lacave\source\repos\Eventos\obj\Debug\App.g.cs
+C:\Users\Carmen.Lacave\source\repos\Eventos\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\Carmen.Lacave\source\repos\Eventos\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\Carmen.Lacave\source\repos\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\Carmen.Lacave\source\repos\Eventos\bin\Debug\Eventos.exe
+C:\Users\Carmen.Lacave\source\repos\Eventos\bin\Debug\Eventos.pdb
+C:\Users\Carmen.Lacave\source\repos\Eventos\obj\Debug\MainWindow.baml
+C:\Users\Carmen.Lacave\source\repos\Eventos\obj\Debug\Eventos.g.resources
+C:\Users\Carmen.Lacave\source\repos\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\Carmen.Lacave\source\repos\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\Carmen.Lacave\source\repos\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\Carmen.Lacave\source\repos\Eventos\obj\Debug\Eventos.exe
+C:\Users\Carmen.Lacave\source\repos\Eventos\obj\Debug\Eventos.pdb
+C:\Users\Carmen.Lacave\Universidad de Castilla-La Mancha\Investigación-Docencia Carmen y Ana - 21-22-WPF\S2-EVENTOS\S2-Eventos-Carmen\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\Carmen.Lacave\Universidad de Castilla-La Mancha\Investigación-Docencia Carmen y Ana - 21-22-WPF\S2-EVENTOS\S2-Eventos-Carmen\Eventos\bin\Debug\Eventos.exe
+C:\Users\Carmen.Lacave\Universidad de Castilla-La Mancha\Investigación-Docencia Carmen y Ana - 21-22-WPF\S2-EVENTOS\S2-Eventos-Carmen\Eventos\bin\Debug\Eventos.pdb
+C:\Users\Carmen.Lacave\Universidad de Castilla-La Mancha\Investigación-Docencia Carmen y Ana - 21-22-WPF\S2-EVENTOS\S2-Eventos-Carmen\Eventos\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\Users\Carmen.Lacave\Universidad de Castilla-La Mancha\Investigación-Docencia Carmen y Ana - 21-22-WPF\S2-EVENTOS\S2-Eventos-Carmen\Eventos\obj\Debug\MainWindow.g.cs
+C:\Users\Carmen.Lacave\Universidad de Castilla-La Mancha\Investigación-Docencia Carmen y Ana - 21-22-WPF\S2-EVENTOS\S2-Eventos-Carmen\Eventos\obj\Debug\App.g.cs
+C:\Users\Carmen.Lacave\Universidad de Castilla-La Mancha\Investigación-Docencia Carmen y Ana - 21-22-WPF\S2-EVENTOS\S2-Eventos-Carmen\Eventos\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\Carmen.Lacave\Universidad de Castilla-La Mancha\Investigación-Docencia Carmen y Ana - 21-22-WPF\S2-EVENTOS\S2-Eventos-Carmen\Eventos\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\Carmen.Lacave\Universidad de Castilla-La Mancha\Investigación-Docencia Carmen y Ana - 21-22-WPF\S2-EVENTOS\S2-Eventos-Carmen\Eventos\obj\Debug\MainWindow.baml
+C:\Users\Carmen.Lacave\Universidad de Castilla-La Mancha\Investigación-Docencia Carmen y Ana - 21-22-WPF\S2-EVENTOS\S2-Eventos-Carmen\Eventos\obj\Debug\Eventos.g.resources
+C:\Users\Carmen.Lacave\Universidad de Castilla-La Mancha\Investigación-Docencia Carmen y Ana - 21-22-WPF\S2-EVENTOS\S2-Eventos-Carmen\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\Carmen.Lacave\Universidad de Castilla-La Mancha\Investigación-Docencia Carmen y Ana - 21-22-WPF\S2-EVENTOS\S2-Eventos-Carmen\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\Carmen.Lacave\Universidad de Castilla-La Mancha\Investigación-Docencia Carmen y Ana - 21-22-WPF\S2-EVENTOS\S2-Eventos-Carmen\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\Carmen.Lacave\Universidad de Castilla-La Mancha\Investigación-Docencia Carmen y Ana - 21-22-WPF\S2-EVENTOS\S2-Eventos-Carmen\Eventos\obj\Debug\Eventos.exe
+C:\Users\Carmen.Lacave\Universidad de Castilla-La Mancha\Investigación-Docencia Carmen y Ana - 21-22-WPF\S2-EVENTOS\S2-Eventos-Carmen\Eventos\obj\Debug\Eventos.pdb
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10\Eventos\bin\Debug\Eventos.exe.config
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10\Eventos\bin\Debug\Eventos.exe
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10\Eventos\bin\Debug\Eventos.pdb
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10\Eventos\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10\Eventos\obj\Debug\MainWindow.g.cs
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10\Eventos\obj\Debug\App.g.cs
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10\Eventos\obj\Debug\Eventos_MarkupCompile.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10\Eventos\obj\Debug\Eventos_MarkupCompile.lref
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10\Eventos\obj\Debug\MainWindow.baml
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10\Eventos\obj\Debug\Eventos.g.resources
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10\Eventos\obj\Debug\Eventos.exe
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10\Eventos\obj\Debug\Eventos.pdb
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\bin\Debug\Eventos.exe.config
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\bin\Debug\Eventos.exe
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\bin\Debug\Eventos.pdb
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\MainWindow.g.cs
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\App.g.cs
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\Eventos_MarkupCompile.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\Eventos_MarkupCompile.lref
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\MainWindow.baml
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\Eventos.g.resources
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\Eventos.exe
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\Eventos.pdb
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\2-FINAL-VERSION DESPUES REDISEÑO CARMEN\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\bin\Debug\Eventos.exe.config
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\2-FINAL-VERSION DESPUES REDISEÑO CARMEN\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\bin\Debug\Eventos.exe
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\2-FINAL-VERSION DESPUES REDISEÑO CARMEN\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\bin\Debug\Eventos.pdb
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\2-FINAL-VERSION DESPUES REDISEÑO CARMEN\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\2-FINAL-VERSION DESPUES REDISEÑO CARMEN\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\MainWindow.g.cs
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\2-FINAL-VERSION DESPUES REDISEÑO CARMEN\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\App.g.cs
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\2-FINAL-VERSION DESPUES REDISEÑO CARMEN\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\Eventos_MarkupCompile.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\2-FINAL-VERSION DESPUES REDISEÑO CARMEN\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\Eventos_MarkupCompile.lref
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\2-FINAL-VERSION DESPUES REDISEÑO CARMEN\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\MainWindow.baml
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\2-FINAL-VERSION DESPUES REDISEÑO CARMEN\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\Eventos.g.resources
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\2-FINAL-VERSION DESPUES REDISEÑO CARMEN\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\2-FINAL-VERSION DESPUES REDISEÑO CARMEN\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\2-FINAL-VERSION DESPUES REDISEÑO CARMEN\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\2-FINAL-VERSION DESPUES REDISEÑO CARMEN\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\Eventos.exe
+C:\TRABAJO\MATERIALES PASO A NET-IPO1\21-22\S2-EVENTOS\2-FINAL-VERSION DESPUES REDISEÑO CARMEN\S2-Eventos-CarmenAna-30-10-SOLO GUI\Eventos\obj\Debug\Eventos.pdb
+C:\Users\ana18\Documents\Visual Studio\Practica 2\S2-Eventos-GUI\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\ana18\Documents\Visual Studio\Practica 2\S2-Eventos-GUI\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe
+C:\Users\ana18\Documents\Visual Studio\Practica 2\S2-Eventos-GUI\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.pdb
+C:\Users\ana18\Documents\Visual Studio\Practica 2\S2-Eventos-GUI\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\Users\ana18\Documents\Visual Studio\Practica 2\S2-Eventos-GUI\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.g.cs
+C:\Users\ana18\Documents\Visual Studio\Practica 2\S2-Eventos-GUI\S2-Eventos-GUI\Eventos\obj\Debug\App.g.cs
+C:\Users\ana18\Documents\Visual Studio\Practica 2\S2-Eventos-GUI\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\ana18\Documents\Visual Studio\Practica 2\S2-Eventos-GUI\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\ana18\Documents\Visual Studio\Practica 2\S2-Eventos-GUI\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.baml
+C:\Users\ana18\Documents\Visual Studio\Practica 2\S2-Eventos-GUI\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.g.resources
+C:\Users\ana18\Documents\Visual Studio\Practica 2\S2-Eventos-GUI\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\ana18\Documents\Visual Studio\Practica 2\S2-Eventos-GUI\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\ana18\Documents\Visual Studio\Practica 2\S2-Eventos-GUI\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\ana18\Documents\Visual Studio\Practica 2\S2-Eventos-GUI\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.exe
+C:\Users\ana18\Documents\Visual Studio\Practica 2\S2-Eventos-GUI\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.pdb
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Proyecto ipo.1\Proyecto ipo\Practica 2\S2-Eventos-GUI\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Proyecto ipo.1\Proyecto ipo\Practica 2\S2-Eventos-GUI\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Proyecto ipo.1\Proyecto ipo\Practica 2\S2-Eventos-GUI\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.pdb
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Proyecto ipo.1\Proyecto ipo\Practica 2\S2-Eventos-GUI\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Proyecto ipo.1\Proyecto ipo\Practica 2\S2-Eventos-GUI\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Proyecto ipo.1\Proyecto ipo\Practica 2\S2-Eventos-GUI\S2-Eventos-GUI\Eventos\obj\Debug\App.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Proyecto ipo.1\Proyecto ipo\Practica 2\S2-Eventos-GUI\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Proyecto ipo.1\Proyecto ipo\Practica 2\S2-Eventos-GUI\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Proyecto ipo.1\Proyecto ipo\Practica 2\S2-Eventos-GUI\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Proyecto ipo.1\Proyecto ipo\Practica 2\S2-Eventos-GUI\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.g.resources
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Proyecto ipo.1\Proyecto ipo\Practica 2\S2-Eventos-GUI\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Proyecto ipo.1\Proyecto ipo\Practica 2\S2-Eventos-GUI\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Proyecto ipo.1\Proyecto ipo\Practica 2\S2-Eventos-GUI\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Proyecto ipo.1\Proyecto ipo\Practica 2\S2-Eventos-GUI\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.exe
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Proyecto ipo.1\Proyecto ipo\Practica 2\S2-Eventos-GUI\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.pdb
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Proyecto ipo.1\Proyecto ipo\Practica 2\S2-Eventos-GUI\S2-Eventos-GUI\Eventos\obj\Debug\Menu.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Proyecto ipo.1\Proyecto ipo\Practica 2\S2-Eventos-GUI\S2-Eventos-GUI\Eventos\obj\Debug\Menu.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csprojAssemblyReference.cache
+C:\Users\patri\OneDrive\Escritorio\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\Menu.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\VoluntariosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\App.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\patri\OneDrive\Escritorio\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\patri\OneDrive\Escritorio\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.exe
+C:\Users\patri\OneDrive\Escritorio\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.pdb
+C:\Users\patri\OneDrive\Escritorio\Protectora4.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\patri\OneDrive\Escritorio\Protectora4.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe
+C:\Users\patri\OneDrive\Escritorio\Protectora4.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.pdb
+C:\Users\patri\OneDrive\Escritorio\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\Menu.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\VoluntariosW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.g.resources
+C:\Users\patri\OneDrive\Escritorio\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\patri\OneDrive\Escritorio\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\patri\OneDrive\Escritorio\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\Escritorio\Nueva carpeta\Protectora5.0 (1)\Protectora4.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\patri\OneDrive\Escritorio\Nueva carpeta\Protectora5.0 (1)\Protectora4.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe
+C:\Users\patri\OneDrive\Escritorio\Nueva carpeta\Protectora5.0 (1)\Protectora4.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.pdb
+C:\Users\patri\OneDrive\Escritorio\Nueva carpeta\Protectora5.0 (1)\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csprojAssemblyReference.cache
+C:\Users\patri\OneDrive\Escritorio\Nueva carpeta\Protectora5.0 (1)\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.g.cs
+C:\Users\patri\OneDrive\Escritorio\Nueva carpeta\Protectora5.0 (1)\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\Menu.g.cs
+C:\Users\patri\OneDrive\Escritorio\Nueva carpeta\Protectora5.0 (1)\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\PerrosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Nueva carpeta\Protectora5.0 (1)\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\VoluntariosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Nueva carpeta\Protectora5.0 (1)\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\App.g.cs
+C:\Users\patri\OneDrive\Escritorio\Nueva carpeta\Protectora5.0 (1)\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\patri\OneDrive\Escritorio\Nueva carpeta\Protectora5.0 (1)\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\patri\OneDrive\Escritorio\Nueva carpeta\Protectora5.0 (1)\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.baml
+C:\Users\patri\OneDrive\Escritorio\Nueva carpeta\Protectora5.0 (1)\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\Menu.baml
+C:\Users\patri\OneDrive\Escritorio\Nueva carpeta\Protectora5.0 (1)\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\VoluntariosW.baml
+C:\Users\patri\OneDrive\Escritorio\Nueva carpeta\Protectora5.0 (1)\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\PerrosW.baml
+C:\Users\patri\OneDrive\Escritorio\Nueva carpeta\Protectora5.0 (1)\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.g.resources
+C:\Users\patri\OneDrive\Escritorio\Nueva carpeta\Protectora5.0 (1)\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\patri\OneDrive\Escritorio\Nueva carpeta\Protectora5.0 (1)\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\patri\OneDrive\Escritorio\Nueva carpeta\Protectora5.0 (1)\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\Escritorio\Nueva carpeta\Protectora5.0 (1)\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.exe
+C:\Users\patri\OneDrive\Escritorio\Nueva carpeta\Protectora5.0 (1)\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.pdb
+C:\Users\patri\OneDrive\Escritorio\Nueva carpeta\Protectora5.0 (1)\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\SociosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Nueva carpeta\Protectora5.0 (1)\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\SociosW.baml
+C:\Users\patri\OneDrive\Escritorio\Nueva carpeta\Protectora5.0 (1)\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\Perdidos.g.cs
+C:\Users\patri\OneDrive\Escritorio\Nueva carpeta\Protectora5.0 (1)\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\Perdidos.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora6.0\Protectora6.0\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora6.0\Protectora6.0\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\InfoApadrinadoW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora6.0\Protectora6.0\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora6.0\Protectora6.0\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\Menu.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora6.0\Protectora6.0\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\Perdidos.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora6.0\Protectora6.0\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\PerrosW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora6.0\Protectora6.0\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\SociosW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora6.0\Protectora6.0\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\VoluntariosW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora6.0\Protectora6.0\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\App.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora6.0\Protectora6.0\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora6.0\Protectora6.0\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora6.0\Protectora6.0\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.exe
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora6.0\Protectora6.0\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.pdb
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora6.0\Protectora6.0\Protectora4.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora6.0\Protectora6.0\Protectora4.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora6.0\Protectora6.0\Protectora4.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.pdb
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora6.0\Protectora6.0\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\InfoApadrinadoW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora6.0\Protectora6.0\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora6.0\Protectora6.0\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\Menu.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora6.0\Protectora6.0\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\Perdidos.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora6.0\Protectora6.0\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\PerrosW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora6.0\Protectora6.0\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\SociosW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora6.0\Protectora6.0\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\VoluntariosW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora6.0\Protectora6.0\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.g.resources
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora6.0\Protectora6.0\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora6.0\Protectora6.0\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora6.0\Protectora6.0\Protectora4.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora13.0\Protectora13.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora13.0\Protectora13.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora13.0\Protectora13.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.pdb
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora13.0\Protectora13.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora13.0\Protectora13.0\S2-Eventos-GUI\Eventos\obj\Debug\AyudaW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora13.0\Protectora13.0\S2-Eventos-GUI\Eventos\obj\Debug\InfoApadrinadoW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora13.0\Protectora13.0\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora13.0\Protectora13.0\S2-Eventos-GUI\Eventos\obj\Debug\Menu.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora13.0\Protectora13.0\S2-Eventos-GUI\Eventos\obj\Debug\Perdidos.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora13.0\Protectora13.0\S2-Eventos-GUI\Eventos\obj\Debug\PerrosW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora13.0\Protectora13.0\S2-Eventos-GUI\Eventos\obj\Debug\SociosW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora13.0\Protectora13.0\S2-Eventos-GUI\Eventos\obj\Debug\VoluntariosW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora13.0\Protectora13.0\S2-Eventos-GUI\Eventos\obj\Debug\App.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora13.0\Protectora13.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora13.0\Protectora13.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora13.0\Protectora13.0\S2-Eventos-GUI\Eventos\obj\Debug\AyudaW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora13.0\Protectora13.0\S2-Eventos-GUI\Eventos\obj\Debug\InfoApadrinadoW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora13.0\Protectora13.0\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora13.0\Protectora13.0\S2-Eventos-GUI\Eventos\obj\Debug\Menu.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora13.0\Protectora13.0\S2-Eventos-GUI\Eventos\obj\Debug\Perdidos.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora13.0\Protectora13.0\S2-Eventos-GUI\Eventos\obj\Debug\PerrosW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora13.0\Protectora13.0\S2-Eventos-GUI\Eventos\obj\Debug\SociosW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora13.0\Protectora13.0\S2-Eventos-GUI\Eventos\obj\Debug\VoluntariosW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora13.0\Protectora13.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.g.resources
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora13.0\Protectora13.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora13.0\Protectora13.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora13.0\Protectora13.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora13.0\Protectora13.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.exe
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora13.0\Protectora13.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.pdb
+C:\Users\patri\OneDrive\Escritorio\esi\cursos\tercero\PrimerCuatri\Tercero\IPO1\Practicas\Protectora14.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\patri\OneDrive\Escritorio\esi\cursos\tercero\PrimerCuatri\Tercero\IPO1\Practicas\Protectora14.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe
+C:\Users\patri\OneDrive\Escritorio\esi\cursos\tercero\PrimerCuatri\Tercero\IPO1\Practicas\Protectora14.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.pdb
+C:\Users\patri\OneDrive\Escritorio\esi\cursos\tercero\PrimerCuatri\Tercero\IPO1\Practicas\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csprojAssemblyReference.cache
+C:\Users\patri\OneDrive\Escritorio\esi\cursos\tercero\PrimerCuatri\Tercero\IPO1\Practicas\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\AyudaW.g.cs
+C:\Users\patri\OneDrive\Escritorio\esi\cursos\tercero\PrimerCuatri\Tercero\IPO1\Practicas\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\InfoApadrinadoW.g.cs
+C:\Users\patri\OneDrive\Escritorio\esi\cursos\tercero\PrimerCuatri\Tercero\IPO1\Practicas\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.g.cs
+C:\Users\patri\OneDrive\Escritorio\esi\cursos\tercero\PrimerCuatri\Tercero\IPO1\Practicas\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\Menu.g.cs
+C:\Users\patri\OneDrive\Escritorio\esi\cursos\tercero\PrimerCuatri\Tercero\IPO1\Practicas\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\Perdidos.g.cs
+C:\Users\patri\OneDrive\Escritorio\esi\cursos\tercero\PrimerCuatri\Tercero\IPO1\Practicas\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\PerrosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\esi\cursos\tercero\PrimerCuatri\Tercero\IPO1\Practicas\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\SociosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\esi\cursos\tercero\PrimerCuatri\Tercero\IPO1\Practicas\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\VoluntariosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\esi\cursos\tercero\PrimerCuatri\Tercero\IPO1\Practicas\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\App.g.cs
+C:\Users\patri\OneDrive\Escritorio\esi\cursos\tercero\PrimerCuatri\Tercero\IPO1\Practicas\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\patri\OneDrive\Escritorio\esi\cursos\tercero\PrimerCuatri\Tercero\IPO1\Practicas\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\patri\OneDrive\Escritorio\esi\cursos\tercero\PrimerCuatri\Tercero\IPO1\Practicas\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\AyudaW.baml
+C:\Users\patri\OneDrive\Escritorio\esi\cursos\tercero\PrimerCuatri\Tercero\IPO1\Practicas\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\InfoApadrinadoW.baml
+C:\Users\patri\OneDrive\Escritorio\esi\cursos\tercero\PrimerCuatri\Tercero\IPO1\Practicas\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.baml
+C:\Users\patri\OneDrive\Escritorio\esi\cursos\tercero\PrimerCuatri\Tercero\IPO1\Practicas\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\Menu.baml
+C:\Users\patri\OneDrive\Escritorio\esi\cursos\tercero\PrimerCuatri\Tercero\IPO1\Practicas\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\Perdidos.baml
+C:\Users\patri\OneDrive\Escritorio\esi\cursos\tercero\PrimerCuatri\Tercero\IPO1\Practicas\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\PerrosW.baml
+C:\Users\patri\OneDrive\Escritorio\esi\cursos\tercero\PrimerCuatri\Tercero\IPO1\Practicas\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\SociosW.baml
+C:\Users\patri\OneDrive\Escritorio\esi\cursos\tercero\PrimerCuatri\Tercero\IPO1\Practicas\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\VoluntariosW.baml
+C:\Users\patri\OneDrive\Escritorio\esi\cursos\tercero\PrimerCuatri\Tercero\IPO1\Practicas\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.g.resources
+C:\Users\patri\OneDrive\Escritorio\esi\cursos\tercero\PrimerCuatri\Tercero\IPO1\Practicas\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\patri\OneDrive\Escritorio\esi\cursos\tercero\PrimerCuatri\Tercero\IPO1\Practicas\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\patri\OneDrive\Escritorio\esi\cursos\tercero\PrimerCuatri\Tercero\IPO1\Practicas\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\Escritorio\esi\cursos\tercero\PrimerCuatri\Tercero\IPO1\Practicas\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.exe
+C:\Users\patri\OneDrive\Escritorio\esi\cursos\tercero\PrimerCuatri\Tercero\IPO1\Practicas\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.pdb
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora15.0\Protectora14.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora15.0\Protectora14.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora15.0\Protectora14.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.pdb
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora15.0\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora15.0\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\AyudaW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora15.0\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\InfoApadrinadoW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora15.0\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora15.0\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\Menu.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora15.0\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\Perdidos.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora15.0\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\PerrosW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora15.0\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\SociosW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora15.0\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\VoluntariosW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora15.0\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\App.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora15.0\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora15.0\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora15.0\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\AyudaW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora15.0\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\InfoApadrinadoW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora15.0\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora15.0\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\Menu.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora15.0\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\Perdidos.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora15.0\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\PerrosW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora15.0\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\SociosW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora15.0\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\VoluntariosW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora15.0\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.g.resources
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora15.0\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora15.0\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora15.0\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora15.0\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.exe
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora15.0\Protectora14.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.pdb
+C:\Users\patri\OneDrive\Escritorio\Protectora17.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\patri\OneDrive\Escritorio\Protectora17.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe
+C:\Users\patri\OneDrive\Escritorio\Protectora17.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.pdb
+C:\Users\patri\OneDrive\Escritorio\Protectora17.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csprojAssemblyReference.cache
+C:\Users\patri\OneDrive\Escritorio\Protectora17.0\S2-Eventos-GUI\Eventos\obj\Debug\AyudaW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora17.0\S2-Eventos-GUI\Eventos\obj\Debug\InfoApadrinadoW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora17.0\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora17.0\S2-Eventos-GUI\Eventos\obj\Debug\Menu.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora17.0\S2-Eventos-GUI\Eventos\obj\Debug\Perdidos.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora17.0\S2-Eventos-GUI\Eventos\obj\Debug\PerrosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora17.0\S2-Eventos-GUI\Eventos\obj\Debug\SociosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora17.0\S2-Eventos-GUI\Eventos\obj\Debug\VoluntariosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora17.0\S2-Eventos-GUI\Eventos\obj\Debug\App.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora17.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\patri\OneDrive\Escritorio\Protectora17.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\patri\OneDrive\Escritorio\Protectora17.0\S2-Eventos-GUI\Eventos\obj\Debug\AyudaW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora17.0\S2-Eventos-GUI\Eventos\obj\Debug\InfoApadrinadoW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora17.0\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora17.0\S2-Eventos-GUI\Eventos\obj\Debug\Menu.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora17.0\S2-Eventos-GUI\Eventos\obj\Debug\Perdidos.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora17.0\S2-Eventos-GUI\Eventos\obj\Debug\PerrosW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora17.0\S2-Eventos-GUI\Eventos\obj\Debug\SociosW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora17.0\S2-Eventos-GUI\Eventos\obj\Debug\VoluntariosW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora17.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.g.resources
+C:\Users\patri\OneDrive\Escritorio\Protectora17.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\patri\OneDrive\Escritorio\Protectora17.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\patri\OneDrive\Escritorio\Protectora17.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\Escritorio\Protectora17.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.exe
+C:\Users\patri\OneDrive\Escritorio\Protectora17.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.pdb
+C:\Users\patri\OneDrive\Escritorio\Protectora18.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\patri\OneDrive\Escritorio\Protectora18.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe
+C:\Users\patri\OneDrive\Escritorio\Protectora18.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.pdb
+C:\Users\patri\OneDrive\Escritorio\Protectora18.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csprojAssemblyReference.cache
+C:\Users\patri\OneDrive\Escritorio\Protectora18.0\S2-Eventos-GUI\Eventos\obj\Debug\AyudaW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora18.0\S2-Eventos-GUI\Eventos\obj\Debug\InfoApadrinadoW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora18.0\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora18.0\S2-Eventos-GUI\Eventos\obj\Debug\Menu.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora18.0\S2-Eventos-GUI\Eventos\obj\Debug\Perdidos.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora18.0\S2-Eventos-GUI\Eventos\obj\Debug\PerrosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora18.0\S2-Eventos-GUI\Eventos\obj\Debug\SociosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora18.0\S2-Eventos-GUI\Eventos\obj\Debug\VoluntariosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora18.0\S2-Eventos-GUI\Eventos\obj\Debug\App.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora18.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\patri\OneDrive\Escritorio\Protectora18.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\patri\OneDrive\Escritorio\Protectora18.0\S2-Eventos-GUI\Eventos\obj\Debug\AyudaW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora18.0\S2-Eventos-GUI\Eventos\obj\Debug\InfoApadrinadoW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora18.0\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora18.0\S2-Eventos-GUI\Eventos\obj\Debug\Menu.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora18.0\S2-Eventos-GUI\Eventos\obj\Debug\Perdidos.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora18.0\S2-Eventos-GUI\Eventos\obj\Debug\PerrosW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora18.0\S2-Eventos-GUI\Eventos\obj\Debug\SociosW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora18.0\S2-Eventos-GUI\Eventos\obj\Debug\VoluntariosW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora18.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.g.resources
+C:\Users\patri\OneDrive\Escritorio\Protectora18.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\patri\OneDrive\Escritorio\Protectora18.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\patri\OneDrive\Escritorio\Protectora18.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\Escritorio\Protectora18.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.exe
+C:\Users\patri\OneDrive\Escritorio\Protectora18.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.pdb
+C:\Users\patri\OneDrive\Escritorio\Protectora19.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\patri\OneDrive\Escritorio\Protectora19.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe
+C:\Users\patri\OneDrive\Escritorio\Protectora19.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.pdb
+C:\Users\patri\OneDrive\Escritorio\Protectora19.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csprojAssemblyReference.cache
+C:\Users\patri\OneDrive\Escritorio\Protectora19.0\S2-Eventos-GUI\Eventos\obj\Debug\AyudaW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora19.0\S2-Eventos-GUI\Eventos\obj\Debug\InfoApadrinadoW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora19.0\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora19.0\S2-Eventos-GUI\Eventos\obj\Debug\Menu.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora19.0\S2-Eventos-GUI\Eventos\obj\Debug\Perdidos.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora19.0\S2-Eventos-GUI\Eventos\obj\Debug\PerrosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora19.0\S2-Eventos-GUI\Eventos\obj\Debug\SociosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora19.0\S2-Eventos-GUI\Eventos\obj\Debug\VoluntariosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora19.0\S2-Eventos-GUI\Eventos\obj\Debug\App.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora19.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\patri\OneDrive\Escritorio\Protectora19.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\patri\OneDrive\Escritorio\Protectora19.0\S2-Eventos-GUI\Eventos\obj\Debug\AyudaW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora19.0\S2-Eventos-GUI\Eventos\obj\Debug\InfoApadrinadoW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora19.0\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora19.0\S2-Eventos-GUI\Eventos\obj\Debug\Menu.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora19.0\S2-Eventos-GUI\Eventos\obj\Debug\Perdidos.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora19.0\S2-Eventos-GUI\Eventos\obj\Debug\PerrosW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora19.0\S2-Eventos-GUI\Eventos\obj\Debug\SociosW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora19.0\S2-Eventos-GUI\Eventos\obj\Debug\VoluntariosW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora19.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.g.resources
+C:\Users\patri\OneDrive\Escritorio\Protectora19.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\patri\OneDrive\Escritorio\Protectora19.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\patri\OneDrive\Escritorio\Protectora19.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\Escritorio\Protectora19.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.exe
+C:\Users\patri\OneDrive\Escritorio\Protectora19.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.pdb
+C:\Users\patri\OneDrive\Escritorio\Protectora20.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\patri\OneDrive\Escritorio\Protectora20.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe
+C:\Users\patri\OneDrive\Escritorio\Protectora20.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.pdb
+C:\Users\patri\OneDrive\Escritorio\Protectora20.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csprojAssemblyReference.cache
+C:\Users\patri\OneDrive\Escritorio\Protectora20.0\S2-Eventos-GUI\Eventos\obj\Debug\AyudaW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora20.0\S2-Eventos-GUI\Eventos\obj\Debug\InfoApadrinadoW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora20.0\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora20.0\S2-Eventos-GUI\Eventos\obj\Debug\Menu.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora20.0\S2-Eventos-GUI\Eventos\obj\Debug\Perdidos.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora20.0\S2-Eventos-GUI\Eventos\obj\Debug\PerrosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora20.0\S2-Eventos-GUI\Eventos\obj\Debug\SociosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora20.0\S2-Eventos-GUI\Eventos\obj\Debug\VoluntariosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora20.0\S2-Eventos-GUI\Eventos\obj\Debug\App.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora20.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\patri\OneDrive\Escritorio\Protectora20.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\patri\OneDrive\Escritorio\Protectora20.0\S2-Eventos-GUI\Eventos\obj\Debug\AyudaW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora20.0\S2-Eventos-GUI\Eventos\obj\Debug\InfoApadrinadoW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora20.0\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora20.0\S2-Eventos-GUI\Eventos\obj\Debug\Menu.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora20.0\S2-Eventos-GUI\Eventos\obj\Debug\Perdidos.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora20.0\S2-Eventos-GUI\Eventos\obj\Debug\PerrosW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora20.0\S2-Eventos-GUI\Eventos\obj\Debug\SociosW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora20.0\S2-Eventos-GUI\Eventos\obj\Debug\VoluntariosW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora20.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.g.resources
+C:\Users\patri\OneDrive\Escritorio\Protectora20.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\patri\OneDrive\Escritorio\Protectora20.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\patri\OneDrive\Escritorio\Protectora20.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\Escritorio\Protectora20.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.exe
+C:\Users\patri\OneDrive\Escritorio\Protectora20.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.pdb
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora21.0\Protectora21.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora21.0\Protectora21.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora21.0\Protectora21.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.pdb
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora21.0\Protectora21.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora21.0\Protectora21.0\S2-Eventos-GUI\Eventos\obj\Debug\AyudaW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora21.0\Protectora21.0\S2-Eventos-GUI\Eventos\obj\Debug\InfoApadrinadoW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora21.0\Protectora21.0\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora21.0\Protectora21.0\S2-Eventos-GUI\Eventos\obj\Debug\Menu.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora21.0\Protectora21.0\S2-Eventos-GUI\Eventos\obj\Debug\Perdidos.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora21.0\Protectora21.0\S2-Eventos-GUI\Eventos\obj\Debug\PerrosW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora21.0\Protectora21.0\S2-Eventos-GUI\Eventos\obj\Debug\SociosW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora21.0\Protectora21.0\S2-Eventos-GUI\Eventos\obj\Debug\VoluntariosW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora21.0\Protectora21.0\S2-Eventos-GUI\Eventos\obj\Debug\App.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora21.0\Protectora21.0\S2-Eventos-GUI\Eventos\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora21.0\Protectora21.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora21.0\Protectora21.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora21.0\Protectora21.0\S2-Eventos-GUI\Eventos\obj\Debug\AyudaW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora21.0\Protectora21.0\S2-Eventos-GUI\Eventos\obj\Debug\InfoApadrinadoW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora21.0\Protectora21.0\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora21.0\Protectora21.0\S2-Eventos-GUI\Eventos\obj\Debug\Menu.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora21.0\Protectora21.0\S2-Eventos-GUI\Eventos\obj\Debug\Perdidos.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora21.0\Protectora21.0\S2-Eventos-GUI\Eventos\obj\Debug\PerrosW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora21.0\Protectora21.0\S2-Eventos-GUI\Eventos\obj\Debug\SociosW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora21.0\Protectora21.0\S2-Eventos-GUI\Eventos\obj\Debug\VoluntariosW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora21.0\Protectora21.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.g.resources
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora21.0\Protectora21.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora21.0\Protectora21.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora21.0\Protectora21.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora21.0\Protectora21.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.exe
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora21.0\Protectora21.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.pdb
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora21.0\Protectora21.0\S2-Eventos-GUI\Eventos\obj\Debug\resources\StringResources.en-UK.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora21.0\Protectora21.0\S2-Eventos-GUI\Eventos\obj\Debug\resources\StringResources.es-ES.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora21.0\Protectora21.0\S2-Eventos-GUI\Eventos\obj\Debug\App.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora26.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csprojAssemblyReference.cache
+C:\Users\patri\OneDrive\Escritorio\Protectora26.0\S2-Eventos-GUI\Eventos\obj\Debug\resources\StringResources.en-UK.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora26.0\S2-Eventos-GUI\Eventos\obj\Debug\resources\StringResources.es-ES.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora26.0\S2-Eventos-GUI\Eventos\obj\Debug\AyudaW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora26.0\S2-Eventos-GUI\Eventos\obj\Debug\InfoApadrinadoW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora26.0\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora26.0\S2-Eventos-GUI\Eventos\obj\Debug\Menu.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora26.0\S2-Eventos-GUI\Eventos\obj\Debug\Perdidos.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora26.0\S2-Eventos-GUI\Eventos\obj\Debug\PerrosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora26.0\S2-Eventos-GUI\Eventos\obj\Debug\SociosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora26.0\S2-Eventos-GUI\Eventos\obj\Debug\VoluntariosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora26.0\S2-Eventos-GUI\Eventos\obj\Debug\App.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora26.0\S2-Eventos-GUI\Eventos\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora26.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\patri\OneDrive\Escritorio\Protectora26.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\patri\OneDrive\Escritorio\Protectora26.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.exe
+C:\Users\patri\OneDrive\Escritorio\Protectora26.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.pdb
+C:\Users\patri\OneDrive\Escritorio\Protectora26.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\patri\OneDrive\Escritorio\Protectora26.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe
+C:\Users\patri\OneDrive\Escritorio\Protectora26.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.pdb
+C:\Users\patri\OneDrive\Escritorio\Protectora26.0\S2-Eventos-GUI\Eventos\obj\Debug\App.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora26.0\S2-Eventos-GUI\Eventos\obj\Debug\AyudaW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora26.0\S2-Eventos-GUI\Eventos\obj\Debug\InfoApadrinadoW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora26.0\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora26.0\S2-Eventos-GUI\Eventos\obj\Debug\Menu.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora26.0\S2-Eventos-GUI\Eventos\obj\Debug\Perdidos.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora26.0\S2-Eventos-GUI\Eventos\obj\Debug\PerrosW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora26.0\S2-Eventos-GUI\Eventos\obj\Debug\SociosW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora26.0\S2-Eventos-GUI\Eventos\obj\Debug\VoluntariosW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora26.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.g.resources
+C:\Users\patri\OneDrive\Escritorio\Protectora26.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\patri\OneDrive\Escritorio\Protectora26.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\patri\OneDrive\Escritorio\Protectora26.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\Escritorio\Protectora27.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\patri\OneDrive\Escritorio\Protectora27.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe
+C:\Users\patri\OneDrive\Escritorio\Protectora27.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.pdb
+C:\Users\patri\OneDrive\Escritorio\Protectora27.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csprojAssemblyReference.cache
+C:\Users\patri\OneDrive\Escritorio\Protectora27.0\S2-Eventos-GUI\Eventos\obj\Debug\resources\StringResources.en-UK.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora27.0\S2-Eventos-GUI\Eventos\obj\Debug\resources\StringResources.es-ES.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora27.0\S2-Eventos-GUI\Eventos\obj\Debug\AyudaW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora27.0\S2-Eventos-GUI\Eventos\obj\Debug\InfoApadrinadoW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora27.0\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora27.0\S2-Eventos-GUI\Eventos\obj\Debug\Menu.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora27.0\S2-Eventos-GUI\Eventos\obj\Debug\Perdidos.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora27.0\S2-Eventos-GUI\Eventos\obj\Debug\PerrosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora27.0\S2-Eventos-GUI\Eventos\obj\Debug\SociosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora27.0\S2-Eventos-GUI\Eventos\obj\Debug\VoluntariosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora27.0\S2-Eventos-GUI\Eventos\obj\Debug\App.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora27.0\S2-Eventos-GUI\Eventos\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora27.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\patri\OneDrive\Escritorio\Protectora27.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\patri\OneDrive\Escritorio\Protectora27.0\S2-Eventos-GUI\Eventos\obj\Debug\App.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora27.0\S2-Eventos-GUI\Eventos\obj\Debug\AyudaW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora27.0\S2-Eventos-GUI\Eventos\obj\Debug\InfoApadrinadoW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora27.0\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora27.0\S2-Eventos-GUI\Eventos\obj\Debug\Menu.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora27.0\S2-Eventos-GUI\Eventos\obj\Debug\Perdidos.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora27.0\S2-Eventos-GUI\Eventos\obj\Debug\PerrosW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora27.0\S2-Eventos-GUI\Eventos\obj\Debug\SociosW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora27.0\S2-Eventos-GUI\Eventos\obj\Debug\VoluntariosW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora27.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.g.resources
+C:\Users\patri\OneDrive\Escritorio\Protectora27.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\patri\OneDrive\Escritorio\Protectora27.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\patri\OneDrive\Escritorio\Protectora27.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\Escritorio\Protectora27.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.exe
+C:\Users\patri\OneDrive\Escritorio\Protectora27.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.pdb
+C:\Users\patri\OneDrive\Escritorio\Protectora28.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\patri\OneDrive\Escritorio\Protectora28.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe
+C:\Users\patri\OneDrive\Escritorio\Protectora28.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.pdb
+C:\Users\patri\OneDrive\Escritorio\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csprojAssemblyReference.cache
+C:\Users\patri\OneDrive\Escritorio\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\resources\StringResources.en-UK.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\resources\StringResources.es-ES.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\AyudaW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\InfoApadrinadoW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\Menu.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\Perdidos.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\PerrosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\SociosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\VoluntariosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\App.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\patri\OneDrive\Escritorio\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\patri\OneDrive\Escritorio\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\App.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\AyudaW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\InfoApadrinadoW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\Menu.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\Perdidos.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\PerrosW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\SociosW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\VoluntariosW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.g.resources
+C:\Users\patri\OneDrive\Escritorio\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\patri\OneDrive\Escritorio\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\patri\OneDrive\Escritorio\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\Escritorio\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.exe
+C:\Users\patri\OneDrive\Escritorio\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.pdb
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora28.0\Protectora28.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora28.0\Protectora28.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora28.0\Protectora28.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.pdb
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora28.0\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora28.0\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\resources\StringResources.en-UK.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora28.0\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\resources\StringResources.es-ES.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora28.0\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\AyudaW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora28.0\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\InfoApadrinadoW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora28.0\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora28.0\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\Menu.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora28.0\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\Perdidos.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora28.0\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\PerrosW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora28.0\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\SociosW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora28.0\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\VoluntariosW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora28.0\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\App.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora28.0\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora28.0\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora28.0\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora28.0\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\App.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora28.0\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\AyudaW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora28.0\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\InfoApadrinadoW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora28.0\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora28.0\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\Menu.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora28.0\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\Perdidos.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora28.0\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\PerrosW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora28.0\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\SociosW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora28.0\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\VoluntariosW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora28.0\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.g.resources
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora28.0\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora28.0\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora28.0\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora28.0\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.exe
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\Programa\Protectora28.0\Protectora28.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.pdb
+C:\Users\patri\OneDrive\Escritorio\Protectora29.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\patri\OneDrive\Escritorio\Protectora29.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.exe
+C:\Users\patri\OneDrive\Escritorio\Protectora29.0\S2-Eventos-GUI\Eventos\bin\Debug\Eventos.pdb
+C:\Users\patri\OneDrive\Escritorio\Protectora29.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csprojAssemblyReference.cache
+C:\Users\patri\OneDrive\Escritorio\Protectora29.0\S2-Eventos-GUI\Eventos\obj\Debug\resources\StringResources.en-UK.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora29.0\S2-Eventos-GUI\Eventos\obj\Debug\resources\StringResources.es-ES.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora29.0\S2-Eventos-GUI\Eventos\obj\Debug\AyudaW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora29.0\S2-Eventos-GUI\Eventos\obj\Debug\InfoApadrinadoW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora29.0\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora29.0\S2-Eventos-GUI\Eventos\obj\Debug\Menu.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora29.0\S2-Eventos-GUI\Eventos\obj\Debug\Perdidos.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora29.0\S2-Eventos-GUI\Eventos\obj\Debug\PerrosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora29.0\S2-Eventos-GUI\Eventos\obj\Debug\SociosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora29.0\S2-Eventos-GUI\Eventos\obj\Debug\VoluntariosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora29.0\S2-Eventos-GUI\Eventos\obj\Debug\App.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora29.0\S2-Eventos-GUI\Eventos\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\patri\OneDrive\Escritorio\Protectora29.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\patri\OneDrive\Escritorio\Protectora29.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\patri\OneDrive\Escritorio\Protectora29.0\S2-Eventos-GUI\Eventos\obj\Debug\App.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora29.0\S2-Eventos-GUI\Eventos\obj\Debug\AyudaW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora29.0\S2-Eventos-GUI\Eventos\obj\Debug\InfoApadrinadoW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora29.0\S2-Eventos-GUI\Eventos\obj\Debug\MainWindow.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora29.0\S2-Eventos-GUI\Eventos\obj\Debug\Menu.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora29.0\S2-Eventos-GUI\Eventos\obj\Debug\Perdidos.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora29.0\S2-Eventos-GUI\Eventos\obj\Debug\PerrosW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora29.0\S2-Eventos-GUI\Eventos\obj\Debug\SociosW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora29.0\S2-Eventos-GUI\Eventos\obj\Debug\VoluntariosW.baml
+C:\Users\patri\OneDrive\Escritorio\Protectora29.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.g.resources
+C:\Users\patri\OneDrive\Escritorio\Protectora29.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\patri\OneDrive\Escritorio\Protectora29.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\patri\OneDrive\Escritorio\Protectora29.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\Escritorio\Protectora29.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.exe
+C:\Users\patri\OneDrive\Escritorio\Protectora29.0\S2-Eventos-GUI\Eventos\obj\Debug\Eventos.pdb
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora30.0\Protectora\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora30.0\Protectora\Eventos\bin\Debug\Eventos.exe
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora30.0\Protectora\Eventos\bin\Debug\Eventos.pdb
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora30.0\Protectora\Eventos\obj\Debug\Eventos.csprojAssemblyReference.cache
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora30.0\Protectora\Eventos\obj\Debug\resources\StringResources.en-UK.baml
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora30.0\Protectora\Eventos\obj\Debug\resources\StringResources.es-ES.baml
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora30.0\Protectora\Eventos\obj\Debug\AyudaW.g.cs
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora30.0\Protectora\Eventos\obj\Debug\InfoApadrinadoW.g.cs
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora30.0\Protectora\Eventos\obj\Debug\MainWindow.g.cs
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora30.0\Protectora\Eventos\obj\Debug\Menu.g.cs
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora30.0\Protectora\Eventos\obj\Debug\Perdidos.g.cs
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora30.0\Protectora\Eventos\obj\Debug\PerrosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora30.0\Protectora\Eventos\obj\Debug\SociosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora30.0\Protectora\Eventos\obj\Debug\VoluntariosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora30.0\Protectora\Eventos\obj\Debug\App.g.cs
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora30.0\Protectora\Eventos\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora30.0\Protectora\Eventos\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora30.0\Protectora\Eventos\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora30.0\Protectora\Eventos\obj\Debug\App.baml
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora30.0\Protectora\Eventos\obj\Debug\AyudaW.baml
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora30.0\Protectora\Eventos\obj\Debug\InfoApadrinadoW.baml
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora30.0\Protectora\Eventos\obj\Debug\MainWindow.baml
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora30.0\Protectora\Eventos\obj\Debug\Menu.baml
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora30.0\Protectora\Eventos\obj\Debug\Perdidos.baml
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora30.0\Protectora\Eventos\obj\Debug\PerrosW.baml
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora30.0\Protectora\Eventos\obj\Debug\SociosW.baml
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora30.0\Protectora\Eventos\obj\Debug\VoluntariosW.baml
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora30.0\Protectora\Eventos\obj\Debug\Eventos.g.resources
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora30.0\Protectora\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora30.0\Protectora\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora30.0\Protectora\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora30.0\Protectora\Eventos\obj\Debug\Eventos.exe
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora30.0\Protectora\Eventos\obj\Debug\Eventos.pdb
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora31.0\Protectora\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora31.0\Protectora\Eventos\bin\Debug\Eventos.exe
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora31.0\Protectora\Eventos\bin\Debug\Eventos.pdb
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora31.0\Protectora\Eventos\obj\Debug\Eventos.csprojAssemblyReference.cache
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora31.0\Protectora\Eventos\obj\Debug\resources\StringResources.en-UK.baml
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora31.0\Protectora\Eventos\obj\Debug\resources\StringResources.es-ES.baml
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora31.0\Protectora\Eventos\obj\Debug\AyudaW.g.cs
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora31.0\Protectora\Eventos\obj\Debug\InfoApadrinadoW.g.cs
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora31.0\Protectora\Eventos\obj\Debug\MainWindow.g.cs
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora31.0\Protectora\Eventos\obj\Debug\Menu.g.cs
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora31.0\Protectora\Eventos\obj\Debug\Perdidos.g.cs
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora31.0\Protectora\Eventos\obj\Debug\PerrosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora31.0\Protectora\Eventos\obj\Debug\SociosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora31.0\Protectora\Eventos\obj\Debug\VoluntariosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora31.0\Protectora\Eventos\obj\Debug\App.g.cs
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora31.0\Protectora\Eventos\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora31.0\Protectora\Eventos\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora31.0\Protectora\Eventos\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora31.0\Protectora\Eventos\obj\Debug\App.baml
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora31.0\Protectora\Eventos\obj\Debug\AyudaW.baml
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora31.0\Protectora\Eventos\obj\Debug\InfoApadrinadoW.baml
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora31.0\Protectora\Eventos\obj\Debug\MainWindow.baml
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora31.0\Protectora\Eventos\obj\Debug\Menu.baml
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora31.0\Protectora\Eventos\obj\Debug\Perdidos.baml
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora31.0\Protectora\Eventos\obj\Debug\PerrosW.baml
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora31.0\Protectora\Eventos\obj\Debug\SociosW.baml
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora31.0\Protectora\Eventos\obj\Debug\VoluntariosW.baml
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora31.0\Protectora\Eventos\obj\Debug\Eventos.g.resources
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora31.0\Protectora\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora31.0\Protectora\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora31.0\Protectora\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora31.0\Protectora\Eventos\obj\Debug\Eventos.exe
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora31.0\Protectora\Eventos\obj\Debug\Eventos.pdb
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora32.0\Protectora\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora32.0\Protectora\Eventos\bin\Debug\Eventos.exe
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora32.0\Protectora\Eventos\bin\Debug\Eventos.pdb
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora32.0\Protectora\Eventos\obj\Debug\Eventos.csprojAssemblyReference.cache
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora32.0\Protectora\Eventos\obj\Debug\resources\StringResources.en-UK.baml
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora32.0\Protectora\Eventos\obj\Debug\resources\StringResources.es-ES.baml
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora32.0\Protectora\Eventos\obj\Debug\AyudaW.g.cs
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora32.0\Protectora\Eventos\obj\Debug\InfoApadrinadoW.g.cs
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora32.0\Protectora\Eventos\obj\Debug\MainWindow.g.cs
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora32.0\Protectora\Eventos\obj\Debug\Menu.g.cs
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora32.0\Protectora\Eventos\obj\Debug\Perdidos.g.cs
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora32.0\Protectora\Eventos\obj\Debug\PerrosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora32.0\Protectora\Eventos\obj\Debug\SociosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora32.0\Protectora\Eventos\obj\Debug\VoluntariosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora32.0\Protectora\Eventos\obj\Debug\App.g.cs
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora32.0\Protectora\Eventos\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora32.0\Protectora\Eventos\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora32.0\Protectora\Eventos\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora32.0\Protectora\Eventos\obj\Debug\App.baml
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora32.0\Protectora\Eventos\obj\Debug\AyudaW.baml
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora32.0\Protectora\Eventos\obj\Debug\InfoApadrinadoW.baml
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora32.0\Protectora\Eventos\obj\Debug\MainWindow.baml
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora32.0\Protectora\Eventos\obj\Debug\Menu.baml
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora32.0\Protectora\Eventos\obj\Debug\Perdidos.baml
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora32.0\Protectora\Eventos\obj\Debug\PerrosW.baml
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora32.0\Protectora\Eventos\obj\Debug\SociosW.baml
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora32.0\Protectora\Eventos\obj\Debug\VoluntariosW.baml
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora32.0\Protectora\Eventos\obj\Debug\Eventos.g.resources
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora32.0\Protectora\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora32.0\Protectora\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora32.0\Protectora\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora32.0\Protectora\Eventos\obj\Debug\Eventos.exe
+C:\Users\patri\OneDrive\Escritorio\parcticaIPO1\Protectora32.0\Protectora\Eventos\obj\Debug\Eventos.pdb
+C:\Users\patri\OneDrive\Escritorio\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\bin\Debug\Eventos.exe.config
+C:\Users\patri\OneDrive\Escritorio\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\bin\Debug\Eventos.exe
+C:\Users\patri\OneDrive\Escritorio\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\bin\Debug\Eventos.pdb
+C:\Users\patri\OneDrive\Escritorio\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.csprojAssemblyReference.cache
+C:\Users\patri\OneDrive\Escritorio\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\resources\StringResources.en-UK.baml
+C:\Users\patri\OneDrive\Escritorio\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\resources\StringResources.es-ES.baml
+C:\Users\patri\OneDrive\Escritorio\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\AyudaW.g.cs
+C:\Users\patri\OneDrive\Escritorio\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\InfoApadrinadoW.g.cs
+C:\Users\patri\OneDrive\Escritorio\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\MainWindow.g.cs
+C:\Users\patri\OneDrive\Escritorio\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Menu.g.cs
+C:\Users\patri\OneDrive\Escritorio\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Perdidos.g.cs
+C:\Users\patri\OneDrive\Escritorio\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\PerrosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\SociosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\VoluntariosW.g.cs
+C:\Users\patri\OneDrive\Escritorio\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\App.g.cs
+C:\Users\patri\OneDrive\Escritorio\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\patri\OneDrive\Escritorio\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\patri\OneDrive\Escritorio\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\patri\OneDrive\Escritorio\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\App.baml
+C:\Users\patri\OneDrive\Escritorio\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\AyudaW.baml
+C:\Users\patri\OneDrive\Escritorio\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\InfoApadrinadoW.baml
+C:\Users\patri\OneDrive\Escritorio\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\MainWindow.baml
+C:\Users\patri\OneDrive\Escritorio\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Menu.baml
+C:\Users\patri\OneDrive\Escritorio\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Perdidos.baml
+C:\Users\patri\OneDrive\Escritorio\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\PerrosW.baml
+C:\Users\patri\OneDrive\Escritorio\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\SociosW.baml
+C:\Users\patri\OneDrive\Escritorio\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\VoluntariosW.baml
+C:\Users\patri\OneDrive\Escritorio\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.g.resources
+C:\Users\patri\OneDrive\Escritorio\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\patri\OneDrive\Escritorio\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\patri\OneDrive\Escritorio\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\Escritorio\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.exe
+C:\Users\patri\OneDrive\Escritorio\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.pdb
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\B1_PatriciaDiezDavidAriasIsabelGonzalez\B1_PatriciaDiezDavidAriasIsabelGonzalez\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\B1_PatriciaDiezDavidAriasIsabelGonzalez\B1_PatriciaDiezDavidAriasIsabelGonzalez\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\resources\StringResources.en-UK.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\B1_PatriciaDiezDavidAriasIsabelGonzalez\B1_PatriciaDiezDavidAriasIsabelGonzalez\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\resources\StringResources.es-ES.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\B1_PatriciaDiezDavidAriasIsabelGonzalez\B1_PatriciaDiezDavidAriasIsabelGonzalez\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\AyudaW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\B1_PatriciaDiezDavidAriasIsabelGonzalez\B1_PatriciaDiezDavidAriasIsabelGonzalez\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\InfoApadrinadoW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\B1_PatriciaDiezDavidAriasIsabelGonzalez\B1_PatriciaDiezDavidAriasIsabelGonzalez\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\MainWindow.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\B1_PatriciaDiezDavidAriasIsabelGonzalez\B1_PatriciaDiezDavidAriasIsabelGonzalez\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Menu.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\B1_PatriciaDiezDavidAriasIsabelGonzalez\B1_PatriciaDiezDavidAriasIsabelGonzalez\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Perdidos.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\B1_PatriciaDiezDavidAriasIsabelGonzalez\B1_PatriciaDiezDavidAriasIsabelGonzalez\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\PerrosW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\B1_PatriciaDiezDavidAriasIsabelGonzalez\B1_PatriciaDiezDavidAriasIsabelGonzalez\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\SociosW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\B1_PatriciaDiezDavidAriasIsabelGonzalez\B1_PatriciaDiezDavidAriasIsabelGonzalez\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\VoluntariosW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\B1_PatriciaDiezDavidAriasIsabelGonzalez\B1_PatriciaDiezDavidAriasIsabelGonzalez\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\App.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\B1_PatriciaDiezDavidAriasIsabelGonzalez\B1_PatriciaDiezDavidAriasIsabelGonzalez\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\B1_PatriciaDiezDavidAriasIsabelGonzalez\B1_PatriciaDiezDavidAriasIsabelGonzalez\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\B1_PatriciaDiezDavidAriasIsabelGonzalez\B1_PatriciaDiezDavidAriasIsabelGonzalez\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\B1_PatriciaDiezDavidAriasIsabelGonzalez\B1_PatriciaDiezDavidAriasIsabelGonzalez\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.exe
+C:\Users\david\Desktop\David UNI\TERCERO-TI\1 Cuatrimestre\IPO 1\Lab\B1_PatriciaDiezDavidAriasIsabelGonzalez\B1_PatriciaDiezDavidAriasIsabelGonzalez\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.pdb
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\bin\Debug\Eventos.exe.config
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\bin\Debug\Eventos.exe
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\bin\Debug\Eventos.pdb
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\resources\StringResources.en-UK.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\resources\StringResources.es-ES.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\AyudaW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\InfoApadrinadoW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\MainWindow.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Menu.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Perdidos.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\PerrosW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\SociosW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\VoluntariosW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\App.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\App.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\AyudaW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\InfoApadrinadoW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\MainWindow.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Menu.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Perdidos.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\PerrosW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\SociosW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\VoluntariosW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.g.resources
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.exe
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.pdb
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Productos.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Productos.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\VerProducto.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\VerProducto.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\CestaCompra.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\CestaCompra.baml
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\bin\Debug\Eventos.exe.config
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\bin\Debug\Eventos.exe
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\bin\Debug\Eventos.pdb
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\resources\StringResources.en-UK.baml
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\resources\StringResources.es-ES.baml
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\AyudaW.g.cs
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\CestaCompra.g.cs
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\InfoApadrinadoW.g.cs
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\MainWindow.g.cs
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Menu.g.cs
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Pago.g.cs
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Perdidos.g.cs
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\PerrosW.g.cs
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Productos.g.cs
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\SociosW.g.cs
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Usuario.g.cs
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\VerProducto.g.cs
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\VoluntariosW.g.cs
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\App.g.cs
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\App.baml
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\AyudaW.baml
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\CestaCompra.baml
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\InfoApadrinadoW.baml
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\MainWindow.baml
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Menu.baml
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Perdidos.baml
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\PerrosW.baml
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Productos.baml
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\SociosW.baml
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\VerProducto.baml
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\VoluntariosW.baml
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Pago.baml
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Usuario.baml
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.g.resources
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.exe
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.pdb
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\bin\Debug\Eventos.exe.config
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\bin\Debug\Eventos.exe
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\bin\Debug\Eventos.pdb
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\resources\StringResources.en-UK.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\resources\StringResources.es-ES.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\AyudaW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\CestaCompra.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\InfoApadrinadoW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\MainWindow.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Menu.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Pago.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Perdidos.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\PerrosW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Productos.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\SociosW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Usuario.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\VerProducto.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\VoluntariosW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\App.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\App.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\AyudaW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\CestaCompra.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\InfoApadrinadoW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\MainWindow.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Menu.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Pago.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Perdidos.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\PerrosW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Productos.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\SociosW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Usuario.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\VerProducto.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\VoluntariosW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.g.resources
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.exe
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.pdb
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\bin\Debug\Eventos.exe.config
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\bin\Debug\Eventos.exe
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\bin\Debug\Eventos.pdb
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\resources\StringResources.en-UK.baml
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\resources\StringResources.es-ES.baml
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\AyudaW.g.cs
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\CestaCompra.g.cs
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\InfoApadrinadoW.g.cs
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\MainWindow.g.cs
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Menu.g.cs
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Pago.g.cs
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Perdidos.g.cs
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\PerrosW.g.cs
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Productos.g.cs
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\SociosW.g.cs
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Usuario.g.cs
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\VerProducto.g.cs
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\VoluntariosW.g.cs
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\App.g.cs
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\App.baml
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\AyudaW.baml
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\CestaCompra.baml
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\InfoApadrinadoW.baml
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\MainWindow.baml
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Menu.baml
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Pago.baml
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Perdidos.baml
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\PerrosW.baml
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Productos.baml
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\SociosW.baml
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Usuario.baml
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\VerProducto.baml
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\VoluntariosW.baml
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.g.resources
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.exe
+C:\Users\Isabel Gonzalez\Downloads\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.pdb
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\resources\StringResources.en-UK.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\resources\StringResources.es-ES.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\AyudaW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\CestaCompra.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\InfoApadrinadoW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\MainWindow.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Menu.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Pago.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Perdidos.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\PerrosW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Productos.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Prueba.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\SociosW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Usuario.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\VerProducto.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\VoluntariosW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\App.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.exe
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.pdb
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\bin\Debug\Eventos.exe.config
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\bin\Debug\Eventos.exe
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\bin\Debug\Eventos.pdb
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\App.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\AyudaW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\CestaCompra.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\InfoApadrinadoW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\MainWindow.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Menu.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Pago.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Perdidos.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\PerrosW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Productos.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Prueba.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\SociosW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Usuario.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\VerProducto.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\VoluntariosW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.g.resources
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\bin\Debug\Eventos.exe.config
+C:\Users\david\Desktop\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\bin\Debug\Eventos.exe
+C:\Users\david\Desktop\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\bin\Debug\Eventos.pdb
+C:\Users\david\Desktop\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\resources\StringResources.en-UK.baml
+C:\Users\david\Desktop\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\resources\StringResources.es-ES.baml
+C:\Users\david\Desktop\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\AyudaW.g.cs
+C:\Users\david\Desktop\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\CestaCompra.g.cs
+C:\Users\david\Desktop\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\MainWindow.g.cs
+C:\Users\david\Desktop\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Pago.g.cs
+C:\Users\david\Desktop\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Productos.g.cs
+C:\Users\david\Desktop\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Prueba.g.cs
+C:\Users\david\Desktop\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Usuario.g.cs
+C:\Users\david\Desktop\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\VerProducto.g.cs
+C:\Users\david\Desktop\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\App.g.cs
+C:\Users\david\Desktop\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\david\Desktop\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\david\Desktop\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\App.baml
+C:\Users\david\Desktop\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\AyudaW.baml
+C:\Users\david\Desktop\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\CestaCompra.baml
+C:\Users\david\Desktop\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\MainWindow.baml
+C:\Users\david\Desktop\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Pago.baml
+C:\Users\david\Desktop\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Productos.baml
+C:\Users\david\Desktop\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Prueba.baml
+C:\Users\david\Desktop\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Usuario.baml
+C:\Users\david\Desktop\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\VerProducto.baml
+C:\Users\david\Desktop\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.g.resources
+C:\Users\david\Desktop\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\david\Desktop\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\david\Desktop\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.exe
+C:\Users\david\Desktop\SuperMarket.4.0\SuperMarket.2.0\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.pdb
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\bin\Debug\Eventos.exe.config
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\bin\Debug\Eventos.exe
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\bin\Debug\Eventos.pdb
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\resources\StringResources.en-UK.baml
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\resources\StringResources.es-ES.baml
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\AyudaW.g.cs
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\CestaCompra.g.cs
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\MainWindow.g.cs
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Pago.g.cs
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Productos.g.cs
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Usuario.g.cs
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\VerProducto.g.cs
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\App.g.cs
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\App.baml
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\AyudaW.baml
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\CestaCompra.baml
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\MainWindow.baml
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Pago.baml
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Productos.baml
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Usuario.baml
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\VerProducto.baml
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.g.resources
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.exe
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.pdb
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\Supermarket10.0\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\bin\Debug\Eventos.exe.config
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\Supermarket10.0\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\bin\Debug\Eventos.exe
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\Supermarket10.0\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\bin\Debug\Eventos.pdb
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\Supermarket10.0\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\Supermarket10.0\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\resources\StringResources.en-UK.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\Supermarket10.0\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\resources\StringResources.es-ES.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\Supermarket10.0\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\AyudaW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\Supermarket10.0\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\CestaCompra.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\Supermarket10.0\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\MainWindow.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\Supermarket10.0\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Pago.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\Supermarket10.0\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Productos.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\Supermarket10.0\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Usuario.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\Supermarket10.0\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\VerProducto.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\Supermarket10.0\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\App.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\Supermarket10.0\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\Supermarket10.0\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\Supermarket10.0\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\App.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\Supermarket10.0\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\AyudaW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\Supermarket10.0\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\CestaCompra.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\Supermarket10.0\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\MainWindow.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\Supermarket10.0\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Pago.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\Supermarket10.0\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Productos.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\Supermarket10.0\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Usuario.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\Supermarket10.0\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\VerProducto.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\Supermarket10.0\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.g.resources
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\Supermarket10.0\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\Supermarket10.0\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\Supermarket10.0\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\Supermarket10.0\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.exe
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\Supermarket10.0\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.pdb
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\bin\Debug\Eventos.exe.config
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\bin\Debug\Eventos.exe
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\bin\Debug\Eventos.pdb
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\resources\StringResources.en-UK.baml
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\resources\StringResources.es-ES.baml
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\AyudaW.g.cs
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\CestaCompra.g.cs
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\MainWindow.g.cs
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Pago.g.cs
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Productos.g.cs
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Usuario.g.cs
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\VerProducto.g.cs
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\App.g.cs
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\App.baml
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\AyudaW.baml
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\CestaCompra.baml
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\MainWindow.baml
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Pago.baml
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Productos.baml
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Usuario.baml
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\VerProducto.baml
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.g.resources
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.exe
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket\B1_PatriciaDiezDavidAriasIsabelGonzalez\Protectora\Protectora\obj\Debug\Eventos.pdb
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\bin\Debug\Eventos.exe.config
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\bin\Debug\Eventos.exe
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\bin\Debug\Eventos.pdb
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\resources\StringResources.en-UK.baml
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\resources\StringResources.es-ES.baml
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\AyudaW.g.cs
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\CestaCompra.g.cs
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\MainWindow.g.cs
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\Pago.g.cs
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\Productos.g.cs
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\Usuario.g.cs
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\VerProducto.g.cs
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\App.g.cs
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\App.baml
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\AyudaW.baml
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\CestaCompra.baml
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\MainWindow.baml
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\Pago.baml
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\Productos.baml
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\Usuario.baml
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\VerProducto.baml
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\Eventos.g.resources
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\Eventos.exe
+C:\Users\Isabel Gonzalez\Desktop\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\Eventos.pdb
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket12.0\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\bin\Debug\Eventos.exe.config
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket12.0\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\bin\Debug\Eventos.exe
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket12.0\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\bin\Debug\Eventos.pdb
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket12.0\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket12.0\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\resources\StringResources.en-UK.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket12.0\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\resources\StringResources.es-ES.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket12.0\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\AyudaW.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket12.0\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\CestaCompra.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket12.0\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\MainWindow.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket12.0\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\Pago.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket12.0\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\Productos.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket12.0\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\Usuario.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket12.0\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\VerProducto.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket12.0\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\App.g.cs
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket12.0\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\Eventos_MarkupCompile.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket12.0\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\Eventos_MarkupCompile.lref
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket12.0\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\App.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket12.0\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\AyudaW.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket12.0\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\CestaCompra.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket12.0\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\MainWindow.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket12.0\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\Pago.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket12.0\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\Productos.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket12.0\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\Usuario.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket12.0\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\VerProducto.baml
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket12.0\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\Eventos.g.resources
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket12.0\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket12.0\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket12.0\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket12.0\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\Eventos.exe
+C:\Users\david\Desktop\David UNI\TERCERO-TI\2 Cuatrimestre\Gestion SI\Lab\SuperMarket12.0\SuperMarket - copia\Buscadores_AriasGonzalez\Supermarket\Supermarket\obj\Debug\Eventos.pdb

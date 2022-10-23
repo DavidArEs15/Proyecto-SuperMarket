@@ -1,0 +1,639 @@
+<Productos>
+	<Productos Nombre="Pan" 
+    Descripcion="   Pan
+	Harina de trigo, agua, sal, levadura. 
+    Puede contener: Soja, Frutos de cáscara, Semillas de sésamo. 
+    Vegano, sin lactosa, gluten. 
+    100 gramos. 
+    SuperMarket" 
+    Coste="0.33" url="https://img.freepik.com/foto-gratis/pan-fresco_155003-937.jpg"/>
+    <Productos Nombre="Pan" 
+    Descripcion="   Integral. Harina integral de trigo, agua, levadura y sal. 
+    Puede contener: Soja, Semillas de sésamo. 
+    Vegano, sin lactosa, gluten. 
+    360 gramos. 
+    SuperMarket" 
+    Coste="1.15" url="https://www.ikohs.com/es/blog/wp-content/uploads/2020/04/trigo-integral.jpg"/>
+    <Productos Nombre="Pan de molde" 
+    Descripcion="   Pan de molde.
+	Harina de trigo, agua, levadura, aceite vegetal (girasol), sal, conservadores (E 282, E 200), emulgentes (E 471, E 472e), 
+	vinagre de vino, harina de haba, almidón de trigo y maíz, agentes de tratamiento de la harina (E 300, E 341). 
+    Puede contener semillas de sésamo y/o soja. 
+    Vegano, sin lactosa, gluten. 
+    700 gramos. 
+    Bimbo." 
+    Coste="2.15" url="https://www.supereko.net/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/0/8/08412600029237_c1n1.jpg"/>
+    <Productos Nombre="Tomate frito" 
+    Descripcion="   Tomate frito.   
+	Pack de 3 bricks de 390g. 
+    Tomate (157 g para elaborar 100 g de producto), aceite de girasol, azúcar, 
+	almidón modificado de maíz, 
+    hortalizas (cebolla y ajo), sal y acidulante: ácido cítrico. 
+    Vegano, sin lactosa, gluten. 
+    390 gramos. 
+    SuperMarket" 
+    Coste="0.96" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/to/tomate-frito-casero-14-1-de-lidl0-1647681036_m.jpg"/>
+    <Productos Nombre="Macarrones" 
+    Descripcion="   Macarrones   
+	Sémola de trigo duro. 
+	Puede contener trazas de huevo. 
+    Contiene: Cereales que contienen gluten. 
+    Vegano, sin lactosa, gluten. 
+    500 gramos. 
+    SuperMarket. 
+    Denominación legal: 
+    PASTA ALIMENTICIA DE CALIDAD SUPERIOR" 
+    Coste="1.19" url="https://1.bp.blogspot.com/-bQTM9Fgjh9g/XYaYSJq3x8I/AAAAAAAAMw4/wIbJF6fY8i4lDswfwVA8PI5MHLMzsNKOQCKgBGAsYHg/s1600/macarron-rayado-hacendado-mercadona-1.jpg"/>
+    <Productos Nombre="Macarrones" 
+    Descripcion="   Macarrones.
+	Harina de maíz 85 %, harina de arroz 15 %. 
+    Vegano, sin lactosa, sin gluten. 
+    500 gramos. 
+    SuperMarket. 
+    Denominación legal: Pasta maíz y arroz sin gluten" 
+    Coste="1.49" url="https://www.socialgluten.com/wp-content/uploads/2020/04/macarrones.jpg"/>
+    <Productos Nombre="Leche" 
+    Descripcion="   Leche entera. 
+    Contiene: Leche. 
+    Lactosa, sin gluten. 
+    1 litro. 
+    Una vez abierto, conservar el envase cerrado en nevera 
+	y consumir antes de 3 días. 
+    Pascual." 
+    Coste="0.94" url="https://lechepascual.es/wp-content/uploads/2018/05/leche-entera-brik-sostenible-536.jpg"/>
+    <Productos Nombre="Leche" 
+    Descripcion="   Leche desnatada y sin lactosa. 
+    Contiene: Leche. 
+    Sin lactosa, sin gluten. 
+    1 litro. 
+    Una vez abierto, conservar el envase cerrado en nevera 
+	y consumir antes de 3 días. 
+    Pascual." 
+    Coste="1.19" url="https://lechepascual.es/wp-content/uploads/2018/05/leche-sin-lactosa-536-nutriscore.jpg"/>
+    <Productos Nombre="Leche" 
+    Descripcion="   Leche de avena.
+    Agua, Avena (15%). 
+    Vegano, sin lactosa, gluten. 
+    1 litro. 
+    Una vez abierto, conservar el envase cerrado en nevera 
+	y consumir antes de 3 días. 
+    Yosoy." 
+    Coste="1.50" url="https://www.supereko.net/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/0/8/08423352100143_c1l1_e.jpg"/>
+    <Productos Nombre="Filetes de pollo" 
+    Descripcion="   Filetes de pollo.
+	Carne. 
+    Pechuga de pollo certificado en filetes. 
+    Sin lactosa, sin gluten. 
+    500 gramos. 
+    SuperMarket" 
+    Coste="3.47" url="https://www.carniceriadehesamolinera.es/wp-content/uploads/2020/07/pechuga-pollo-filetes.jpg"/>
+    <Productos Nombre="Tomates" 
+    Descripcion="   Tomates.
+	Fruta. 
+    Tomates de Almería. 
+    Vegano, sin lactosa, sin gluten. 
+    250 gramos. 
+    Marca: SuperMarket" 
+    Coste="0.90" url="https://www.lovemysalad.com/sites/default/files/styles/image_530x397/public/tomates_-_vladimir_morozov.jpg?itok=XMg8FUqr"/>
+    <Productos Nombre="Lejía" 
+    Descripcion="   Lejía.
+	Producto de limpieza. 
+    Marca: SuperMarket" 
+    Coste="0.95" url="https://arcashop.es/11759-large_default/lejia-lavadora-neutrex-futura-18-litros-bote-blanco.jpg"/>
+    <Productos Nombre="Mascarillas" 
+    Descripcion="   Mascarillas quirúrgicas.
+    3 capas tipo Lir. 
+    10 unidades. 
+    Marca: SuperMarket" 
+    Coste="1.20" url="https://cdn.zerca.com/medias/mascarillas-quirurgicas-10-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w4NTY1MnxpbWFnZS9qcGVnfGltYWdlcy9oMjgvaDU1Lzg5ODYwMDMxMTE5NjYuanBnfDNjYzc5ZjRjOTM0MWM2MDY4YmExZWFhZTIwMTZjMjIzZGUwNTRhZjYzNWYwOGVhYzM4OTcyZDc0NzVmNzQzY2U"/>
+    <Productos Nombre="Tofu" 
+    Descripcion="   Bloque de tofu firme.
+    Frias. 
+    Paquete 275 gramos escurrido. 
+    Vegano, sin lactosa, sin gluten.
+    Marca: SuperMarket" 
+    Coste="2.30" url="https://t2.uc.ltmcdn.com/es/posts/3/1/8/como_hacer_tofu_casero_32813_600_square.jpg"/>
+    <Productos Nombre="Huevos" 
+    Descripcion=" Pack de 12 huevos.
+	Gallinas criadas en el suelo L
+    Sin lactosa, sin gluten.
+    Marca: SuperMarket" 
+    Coste="2.15" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/hu/huevos-l-libres-de-lidl0-1647677398_m.jpg"/>
+    <Productos Nombre="Helado" 
+    Descripcion="  Tarrina de helado de vainilla y nueces de macadamia.
+	Con crema de vainilla Bourbon y crocante de nueces de macadamia.
+	500 ml
+    Marca: Gelatelli" 
+    Coste="2.50" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/ge/gelatelli-helado-premium-de-vainilla-y-nueces-de-macadamia-de-lidl0-1647687983_m.jpg"/>
+    <Productos Nombre="Patatas" 
+    Descripcion="   Malla de patatas
+    5 kilos (kg)   
+    Vegano, sin lactosa, sin gluten.
+    Marca: Supermarket" 
+    Coste="4.19" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/pa/patata-5-kg-de-lidl-1647683648_m.jpg"/>
+    <Productos Nombre="Atún" 
+    Descripcion="   Latas de atún.
+    Fresco del día.
+    Lugar de procedencia: Francia)
+    Sin lactosa, sin gluten.
+    Marca: Supermarket" 
+    Coste="1.75" url="https://media3.cestaclick.es/227/Isabel-Atun-en-Aceite-de-Girasol-3-Unidades-240g.jpg"/>
+    <Productos Nombre="Atún" 
+    Descripcion="   Paquete de filetes de atún congelado.
+    Paquete 360 gramos. 
+    Sin lactosa, sin gluten.
+    Marca: Ocean Sea" 
+    Coste="3.99" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/fi/filetes-de-atun-de-lidl0-1647678324.jpg"/>
+    <Productos Nombre="Champiñones" 
+    Descripcion="   Champiñones Portobello.
+    Paquete 250 gramos. 
+    5,80 €/Kg
+    Fresco del día.
+    Vegano, sin lactosa, sin gluten.
+    Lugar de procedencia: España    
+    Marca: SuperMarket" 
+    Coste="1.35" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/ch/champinon-portobello-2-de-lidl-1647683630_m.jpg"/>
+    <Productos Nombre="Canónigos" 
+    Descripcion="   Paquete de canónigos de 100 gramos. 
+    Canónigos frescos y lavados.
+    Alto contenido en vitamina A.
+    Vegano, sin lactosa, sin gluten.
+    3 raciones.
+    8,90 €/Kg  
+    Marca: Edulis" 
+    Coste="0.80" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/ca/canonigos-5-de-lidl0-1647678046_m.jpg"/>
+    <Productos Nombre="Ron" 
+    Descripcion="   Ron Baraguá dominicano añejo. 
+    Alcohol 38% vol.
+    70 cl
+    Vegano, sin lactosa, sin gluten.
+    7,13 €/ L 
+    Marca: Baraguá" 
+    Coste="10.30" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/ro/ron-anejo-rep-dominicana-37-5-vol-de-lidl0-1647678227_m.jpg"/>
+    <Productos Nombre="Ginebra" 
+    Descripcion="   Ginebra destilada de uva. 
+    Alcohol 37,6 % vol.
+    13,56 €/ L
+    70 cl
+    Sin gluten, sin lactosa y vegano.
+    Marca: Hampstead" 
+    Coste="9.49" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/gi/ginebra-premium-destilada-de-uva-de-lidl0-1647677242_m.jpg"/>
+    <Productos Nombre="Cerveza" 
+    Descripcion="   Mini en pack de 6 cervezas.
+    Alcohol 5,6 % vol.
+    2,63 €/ L
+    6 x 20 cl
+    Vegano, sin lactosa.
+    Formato mini.
+    Marca: Estrella Galicia" 
+    Coste="3.15" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/es/estrella-galicia-mini-pack-de-lidl0-1647677461_m.jpg"/>
+    <Productos Nombre="Zumo" 
+    Descripcion="   Bebida de mango
+    1 l
+    Bebida refrescante de zumo de mango.
+	Sin gluten, sin lactosa y vegano.
+    Marca: Solevita" 
+    Coste="0.89" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/be/bebida-de-mango-de-lidl0-1647680437_m.jpg"/>
+    <Productos Nombre="Batido" 
+    Descripcion="   Cacaolat batido de cacao
+    1 l
+    Sin gluten
+    El clásico batido de cacao, desde 1933
+    Marca: Cacaolat" 
+    Coste="1.99" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/ca/cacaolat-batido-de-cacao-de-lidl0-1647684432_m.jpg"/>
+    <Productos Nombre="Cava" 
+    Descripcion="    Arestel Cava Brut D.O.
+    2,65 €/ L
+    75 cl
+    Maridaje - Pescados roca, Arroces, Mariscos.
+    Region - Cava
+    Varietal - Macabeo, Parellada, Xarello.
+    Temperatura 5-8 grado
+    Alcohol - 11,5 porcentual
+    Tipo de uva: Macabeo, Parellada y Xarel.lo.
+	Sin gluten, sin lactosa y vegano.
+    Marca: Arestel" 
+    Coste="1.99" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/ca/cava-do-brut-de-lidl0-1647678488_m.jpg"/>
+	<Productos Nombre="Mandarinas"
+    Descripcion="   Kilo de mandarinas.
+    Fruta fresca del día.
+	1 kg.
+    Lugar de procedencia: España
+	Sin gluten, sin lactosa y vegano.
+    Marca: SuperMarket"
+    Coste="1.89" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/ma/mandarina-1-kg-1-de-lidl-1647680553_m.jpg"/>
+	<Productos Nombre="Pimiento verde"
+    Descripcion="   Pimiento verde para freír.
+    A granel.
+    Verdura fresca del día.
+    Unidad 180 g aprox.
+    Lugar de procedencia: España
+    Marca: SuperMarket"
+    Coste="0.34" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/pi/pimiento-verde-para-freir-a-granel-de-lidl-1647683912_m.jpg"/>
+	<Productos Nombre="Mix anacardos y arándanos"
+    Descripcion="   Alesto Anacardos y arándanos al natural
+    Mezcla de anacardos y arándanos rojos deshidratados y azucarados.
+	Frutos secos.
+	200g
+	Sin gluten, sin lactosa y vegano.
+    Marca: Alesto"
+    Coste="2.34" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/an/anacardos-y-arandanos-al-natural-de-lidl0-1647678460_m.jpg"/>
+	<Productos Nombre="Pimiento rojo"
+    Descripcion="   Pimiento rojo.
+    Variedad: Clovis.
+    Verdura fresca del día.
+    Unidad 300 g aprox.
+    Lugar de procedencia: España
+	Sin gluten, sin lactosa y vegano.
+    Marca: SuperMarket"
+    Coste="0.60" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/pi/pimiento-rojo-granel-de-lidl-1647678258_m.jpg"/>
+	<Productos Nombre="Mister Choc Cacahuetes recubiertos de caramelo Big Hit"
+    Descripcion="   Cacahuetes recubiertos de caramelo.
+    250 g
+    Cacahuetes con chocolate con leche y caramelo.
+	Sin gluten.
+    Marca: Mister Choc"
+    Coste="1.65" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/ca/cacahuetes-chocolate-de-lidl0-1647679323_m.jpg"/>
+	<Productos Nombre="Cuétara Choco flakes"
+    Descripcion="   Cereales cuétara Choco flakes.
+    550 g
+	Sin lactosa y vegano.
+	4,45 €/ kg
+    Marca: Cuétara Choco"
+    Coste="2.45" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/cu/cuetara-choco-flakes-de-lidl0-1647681166_m.jpg"/>
+	<Productos Nombre="Carne Picada ecológica de vacuno"
+    Descripcion="  Carne picada de vacuno ecológica y con especias ecológicas.
+    300 g
+	Sin lactosa y sin gluten.
+	10,97 €/ kg
+    Marca: SuperMarket"
+    Coste="3.29" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/pi/picada-de-vacuno-ecologica-de-lidl0-1647678178_m.jpg"/>
+    <Productos Nombre="Tomate cherry mix"
+    Descripcion="  Tomate cherry mix.
+    300 g
+    Variedad: Cherry rojo, cherry negro, cherry amarillo.
+    Fresco del día.
+    Lugar de procedencia: España
+	Sin lactosa, sin gluten y vegano.
+    Marca: SuperMarket"
+    Coste="1.49" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/to/tomate-cherry-trimix-de-lidl0-1647678009_m.jpg"/>
+    <Productos Nombre="Milbona Mantequilla con sal"
+    Descripcion="  Mantequilla con sal.
+    250 g
+    80% Materia Grasa.    
+	Sin gluten.
+	7,00 €/ kg
+    Marca: Milbona"
+    Coste="1.75" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/ma/mantequilla-con-sal-10-de-lidl0-1647677571_m.jpg"/>
+    <Productos Nombre="Milbona Mantequilla alemana"
+    Descripcion="  Mantequilla sin sal.
+    250 g
+    82% Materia Grasa.    
+	Sin gluten.
+	7,00 €/ kg
+    Marca: Milbona"
+    Coste="1.75" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/ma/mantequilla-alemana-de-lidl0-1647685258_m.jpg"/>
+    <Productos Nombre="Natillas Danone Danet de chocolate"
+    Descripcion="  Natillas Danone de chocolate.
+    4,35 €/ kg
+    4 x 120 g
+    Natillas de chocolate.    
+	Sin gluten.
+    Marca: Danone"
+    Coste="2.09" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/da/danone-danet-de-chocolate-de-lidl0-1647690117_m.jpg"/>
+    <Productos Nombre="Milbona Yogur para beber mini de fresa"
+    Descripcion="  Yogur para beber mini de fresa.
+    4 x 200 g
+    Con sabor a fresa.   
+	Sin gluten.
+    Marca: Milbona"
+    Coste="1.59" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/yo/yogur-para-beber-mini-de-fresa-de-lidl0-1647682287_m.jpg"/>
+    <Productos Nombre="Milbona Yogur ecológico con cereza"
+    Descripcion="  Yogur ecológico con cereza.
+    3,93 €/ kg
+    150 g
+    Ecológico
+    Con trozos de cereza.
+	Sin gluten.
+    Marca: Milbona"
+    Coste="0.59" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/yo/yogur-ecologico-con-cereza-de-lidl0-1647682905_m.jpg"/>
+    <Productos Nombre="Roncero Cuña de queso tierno"
+    Descripcion="  Cuña de queso tierno.
+    6,83 €/ kg
+    300 g
+    Origen España 100%
+    Queso de mezcla madurado.
+	Sin gluten.
+    Marca: Roncero"
+    Coste="2.05" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/cu/cuna-de-queso-mezcla-tierno-de-lidl0-1647677082_m.jpg"/>
+    <Productos Nombre="Milbona Queso emmental en lonchas"
+    Descripcion="  Queso emmental en lonchas.
+    7,56 €/ kg
+    250 g
+    45% M.G.
+	Sin gluten.
+    Marca: Milbona"
+    Coste="1.89" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/qu/queso-emmental-en-lonchas-2-de-lidl0-1647678255_m.jpg"/>
+    <Productos Nombre="Milbona Queso emmental en bloque"
+    Descripcion="  Queso emmental en bloque.
+    6,48 €/ kg
+    400 g
+    45% M.G.
+	Sin gluten y sin lactosa.
+    Marca: Milbona"
+    Coste="1.89" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/qu/queso-emmental-pieza-de-lidl0-1647677507_m.jpg"/>
+    <Productos Nombre="Roncero Crema de queso semicurado"
+    Descripcion="  Crema de queso semicurado.
+    7,92 €/ kg
+    125 g
+    Queso fundido para untar.    
+	Sin gluten.
+    Marca: Roncero"
+    Coste="0.99" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/cr/crema-de-queso-semicurado-5-de-lidl0-1647682326_m.jpg"/>
+    <Productos Nombre="La cestera croissants"
+    Descripcion="  Croissants.
+    5,11 €/ kg
+    350 g
+    Envasados individualmente.    
+	Sin gluten.
+    Marca: La cestera"
+    Coste="1.79" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/cr/croissants-6-de-lidl0-1647679730_m.jpg"/>
+    <Productos Nombre="La cestera croissants de chocolate"
+    Descripcion="  Croissants de chocolate.
+    6,36 €/ kg
+    360 g
+    Envasados individualmente.
+    Rellenos de cacao.    
+	Sin gluten.
+    Marca: La cestera"
+    Coste="2.29" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/la/la-cestera-croissants-chocolate-8-uds-de-lidl0-1647686678_m.jpg"/>
+    <Productos Nombre="Vemondo Magdalenas de chocolate veganas"
+    Descripcion="  Magdalenas de chocolate veganas.
+    5,25 €/ kg
+    360 g
+	Sin lactosa y vegano.
+    Marca: Vemondo"
+    Coste="1.89" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/ve/vemondo-magdalenas-de-chocolate-veganas-de-lidl0-1647693107_m.jpg"/>
+    <Productos Nombre="Vemondo Magdalenas de vainilla veganas"
+    Descripcion="  Magdalenas de vainilla veganas.
+    5,25 €/ kg
+    360 g
+	Sin lactosa y vegano.
+    Marca: Vemondo"
+    Coste="1.89" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/ve/vemondo-magdalenas-veganas-de-vainilla-de-lidl0-1647693167_m.jpg"/>
+    <Productos Nombre="Vemondo lasaña vegana"
+    Descripcion="  Lasaña vegana.
+    4,98 €/ kg
+    400 g
+    Con carne picada a base de proteína de girasol.
+    Lista para calentar.    
+	Sin gluten, sin lactosa y vegano.
+    Marca: Vemondo"
+    Coste="1.99" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/ve/vemondo-lasaa-vegana-de-lidl0-1647692737_m.jpg"/>
+    <Productos Nombre="Chuletas mixtas de cordero"
+    Descripcion="  Chuletas mixtas de cordero.
+    Aprox. 400 - 500 g
+    Con certificación de bienestar animal.
+	Sin gluten, sin lactosa.
+    Marca: SuperMarket"
+    Coste="6.30" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/ch/chuletas-mixtas-de-cordero-1-de-lidl-1647690662_m.jpg"/>
+    <Productos Nombre="Chuletas de lomo de cerdo"
+    Descripcion="  Chuletas de lomo de cerdo.
+    4,27 €/ kg
+    700 g
+    Carne fresca de cerdo.
+	Sin gluten, sin lactosa.
+    Marca: SuperMarket"
+    Coste="2.99" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/ch/chuletas-de-lomo-de-cerdo-4-de-lidl0-1647678295_m.jpg"/>
+    <Productos Nombre="Realvalle Chorizo extra en lonchas"
+    Descripcion="  Chorizo extra en lonchas.
+    2 x 100 g
+    32 lonchas
+	Sin gluten, sin lactosa.
+    Marca: Realvalle"
+    Coste="1.15" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/ch/chorizo-extra-lonchas-3-de-lidl0-1647677235_m.jpg"/>
+    <Productos Nombre="Realvalle Jamón serrano reserva en lonchas"
+    Descripcion="  Jamón serrano reserva en lonchas.
+    13,71 €/ kg
+    240 g
+	Sin gluten, sin lactosa.
+    13 meses de curación.
+    Marca: Realvalle"
+    Coste="3.29" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/ja/jamon-serrano-reserva-lonchas-de-lidl0-1647678025_m.jpg"/>
+    <Productos Nombre="Realvalle Pechuga de pollo finas lonchas"
+    Descripcion="  Pechuga de pollo finas lonchas.
+    8,75 €/ kg
+    200 g
+	Sin gluten, sin lactosa.
+    Pechuga de pollo cocida.
+    Marca: Realvalle"
+    Coste="1.75" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/pe/pechuga-de-pollo-finas-lonchas-de-lidl0-1649860028_m.jpg"/>
+    <Productos Nombre="Realvalle Pechuga de pollo finas lonchas braseado"
+    Descripcion="  Pechuga de pollo finas lonchas braseado.
+    8,75 €/ kg
+    200 g
+	Sin gluten, sin lactosa.
+    Finas lonchas de pechuga de pollo cocida.
+    Marca: Realvalle"
+    Coste="1.78" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/pe/pechuga-de-pollo-braseado-de-lidl0-1647681559_m.jpg"/>
+    <Productos Nombre="VeganFeel Lonchas veganas"
+    Descripcion="  Lonchas veganas.
+    13,95 €/ kg
+    200 g    
+	Sin gluten, sin lactosa y vegano.
+    Con proteína de guisante y levadura nutricional.
+    Marca: VeganFeel"
+    Coste="2.78" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/ve/veganfeel-lonchas-veganas-de-lidl-1647686598_m.jpg"/>
+    <Productos Nombre="Dulano Salchichas Bockwurst con queso"
+    Descripcion="  Salchichas Bockwurst con queso.
+    500 g    
+	Sin gluten, sin lactosa.
+    Salchichas ahumadas.
+    Marca: Dulano"
+    Coste="2.69" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/du/dulano-salchichas-bockwurst-con-queso-de-lidl0-1647687590_m.jpg"/>
+    <Productos Nombre="W5 Ambientador varitas floral"
+    Descripcion="  W5 Ambientador varitas floral.
+    59,80 €/ L
+    50 ml
+    Varitas difusoras de fragancias con aceites esenciales naturales.
+    Marca: W5"
+    Coste="2.99" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/am/ambientador-varitas-dama-de-noche-1-de-lidl0-1647684424_m.jpg"/>
+    <Productos Nombre="W5 Ambientador varitas frutos rojos"
+    Descripcion="  W5 Ambientador varitas frutos rojos.
+    59,80 €/ L
+    50 ml
+    Varitas difusoras de fragancias con aceites esenciales naturales.
+    Marca: W5"
+    Coste="2.99" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/am/ambientador-varitas-frutos-rojos-de-lidl0-1647685313_m.jpg"/>
+    <Productos Nombre="Ariel Detergente en polvo"
+    Descripcion="  Detergente en polvo.
+    1,95 kg
+    30 lavados.
+    Limpieza increíble y ahorro.
+    Marca: Ariel"
+    Coste="6.99" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/ar/ariel-detergente-en-polvo-de-lidl0-1647681377_m.jpg"/>
+    <Productos Nombre="Ariel Detergente líquido"
+    Descripcion="  Detergente líquido.
+    1,65 l
+    30 lavados.
+    Limpieza increíble y ahorro.
+    Marca: Ariel"
+    Coste="6.99" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/ar/ariel-detergente-lquido-30-lavados-de-lidl0-1647686066_m.jpg"/>
+    <Productos Nombre="W5 Estropajo azul"
+    Descripcion="  Estropajo azul.
+    3 uds
+    Esponja super absorbente que no raya.
+    Marca: W5"
+    Coste="0.95" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/es/estropajo-azul-de-lidl0-1647681465_m.jpg"/>
+    <Productos Nombre="W5 Bayeta para polvo de microfibra"
+    Descripcion="  Bayeta para polvo de microfibra.
+    1 ud
+    Seca de una pasada sin dejar rastros.   
+    Marca: W5"
+    Coste="0.95" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/w5/w5-bayeta-para-polvo-de-microfibra-de-lidl0-1647873045_m.jpg"/>
+    <Productos Nombre="Cien Acondicionador rizos"
+    Descripcion="  Acondicionador rizos.
+    300 ml
+    Rizos más definidos, suaves y elásticos.   
+    Marca: Cien"
+    Coste="1.15" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/ac/acondicionador-especifico-rizos-de-lidl0-1647683123_m.jpg"/>
+    <Productos Nombre="Cien Acondicionador daños"
+    Descripcion="  Acondicionador daños.
+    300 ml
+    Recupera el brillo y la suavidad.  
+    Marca: Cien"
+    Coste="1.15" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/ac/acondicionador-especifico-danos-de-lidl0-1647683765_m.jpg"/>
+    <Productos Nombre="Colgate Dentífrico Total blanqueador"
+    Descripcion="  Dentífrico Total blanqueador.
+    75 ml
+    Eliminación eficaz de las manchas para unos dientes más blancos. 
+    Marca: Colgate"
+    Coste="1.95" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/co/colgate-dentifrico-total-blanqueador-de-lidl0-1647682806_m.jpg"/>
+    <Productos Nombre="Colgate Dentífrico Total original"
+    Descripcion="  Dentífrico Total original.
+    75 ml
+    Protección continua contra la placa durante 12 horas.
+    Marca: Colgate"
+    Coste="1.95" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/co/colgate-dentifrico-total-original-de-lidl0-1647682227_m.jpg"/>
+    <Productos Nombre="Sanex Desodorante spray sensitive"
+    Descripcion="  Desodorante spray sensitive.
+    200 ml
+    Minimiza el riesgo de irritación.
+    Marca: Sanex"
+    Coste="2.69" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/sa/sanex-desodorante-spray-sensitive-de-lidl0-1647690517_m.jpg"/>
+    <Productos Nombre="Sanex Desodorante spray zero %"
+    Descripcion="  Desodorante spray sensitive zero %.
+    200 ml
+    Extra control.
+    Marca: Sanex"
+    Coste="2.69" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/sa/sanex-desodorante-spray-zero-de-lidl0-1647693481_m.jpg"/>
+    <Productos Nombre="Campo Largo Alubias blancas precocinadas"
+    Descripcion="  Alubias blancas precocinadas.
+    1,73 €/ kg
+    580 ml
+    Sin gluten, sin lactosa y vegano.
+    Alubias blancas precocinadas.   
+    Marca: Campo Largo"
+    Coste="0.69" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/al/alubias-precocinadas-de-lidl0-1647677200_m.jpg"/>
+    <Productos Nombre="Campo Largo Garbanzos precocinadas"
+    Descripcion="  Garbanzos precocinadas.
+    1,98 €/ kg
+    580 ml
+    Sin gluten, sin lactosa y vegano.
+    Marca: Campo Largo"
+    Coste="0.79" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/ga/garbanzos-precocinados-de-lidl0-1647677667_m.jpg"/>
+    <Productos Nombre="Brefer Aceitunas verdes aliñadas chupadedos"
+    Descripcion="  Aceitunas verdes aliñadas chupadedos.
+    1365 ml
+    Aceitunas verdes partidas y aliñadas.
+    Sin gluten, sin lactosa y vegano.           
+    Marca: Brefer"
+    Coste="2.99" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/br/brefer-aceitunas-verdes-aliadas-chupadedos-1-de-lidl0-1647692002_m.jpg"/>
+    <Productos Nombre="Brefer Aceitunas verdes  chupadedos"
+    Descripcion="  Aceitunas verdes chupadedos.
+    1365 ml
+    Aceitunas verdes partidas y aliñadas.
+    Sin gluten, sin lactosa y vegano.           
+    Marca: Brefer"
+    Coste="2.99" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/br/brefer-aceitunas-verdes-chupadedos-de-lidl-1651035831_m.jpg"/>
+    <Productos Nombre="Vemondo Helado vegano de coco y caramelos"
+    Descripcion="  Helado vegano de coco y caramelo.
+    13,68 €/ kg
+    3 x 68 g    
+    100% vegetal.
+    Helado con coco, salsa de caramelo, cobertura de chocolate y coco rallado.
+    Sin gluten, sin lactosa y vegano.
+    Marca: Vemondo"
+    Coste="2.79" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/ge/gelatelli-helado-vegano-de-coco-y-caramelo-de-lidl0-1648769191_m.jpg"/>
+    <Productos Nombre="Trattoria alfredo pizza vegana Bruschetta"
+    Descripcion="  Pizza vegana Bruschetta.
+    5,69 €/ kg
+    350gr,390gr
+    Al horno de leña.
+    Sin lactosa y vegano.
+    Marca: Trattoria alfredo"
+    Coste="1.99" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/st/steinofenpizza-vegan-verdura-de-lidl0-1647678391_m.jpg"/>
+    <Productos Nombre="Trattoria alfredo pizza de atún"
+    Descripcion="  Pizza de atún.
+    4,60 €/ kg
+    2 x 355 g
+    Al horno de leña.
+    Marca: Trattoria alfredo"
+    Coste="3.59" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/tr/trattoria-alfredo-pizza-de-atn-de-lidl0-1648789683_m.jpg"/>
+    <Productos Nombre="Chef Select Guacamole"
+    Descripcion="  Guacamole.
+    6,45 €/ kg
+    200 g
+    Con un 96% de aguacate.
+    Sin gluten, sin lactosa y vegano.
+    Marca: Chef Select"
+    Coste="1.29" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/gu/guacamole-7-de-lidl0-1647677526_m.jpg"/>
+    <Productos Nombre="Freshona Brócoli"
+    Descripcion="  Brócoli.
+    900 g
+    Ultracongelado.
+    Fuente de fibra.
+    Recolectado y ultracongelado el mismo día.
+    Sin gluten, sin lactosa y vegano.
+    Marca: Freshona"
+    Coste="1.35" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/br/brocoli-30-50-de-lidl0-1649859848_m.jpg"/>
+    <Productos Nombre="Olisone Aceite de oliva suave"
+    Descripcion="  Aceite de oliva suave.
+    4,30 €/ L
+    5 l
+    Acidez 0,4º.
+    Sin gluten, sin lactosa y vegano.
+    Marca: Olisone"
+    Coste="21.49" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/ol/olisone-aceite-de-oliva-suave-de-lidl-1647686600_m.jpg"/>
+    <Productos Nombre="Vita d'or Aceite refinado de girasol"
+    Descripcion="  Aceite refinado de girasol.
+    3,18 €/ L
+    5 l
+    100% aceite de girasol.
+    Sin gluten, sin lactosa y vegano.
+    Marca: Olisone"
+    Coste="15.89" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/gi/girasol-5l-de-lidl-1647678019_m.jpg"/>
+    <Productos Nombre="Campo Largo Arroz redondo"
+    Descripcion="  Arroz redondo.
+    1 kg
+    100% origen España.
+    Sin gluten, sin lactosa y vegano.
+    Marca: Campo Largo"
+    Coste="0.95" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/ar/arroz-extra-2-de-lidl0-1647677382_m.jpg"/>
+    <Productos Nombre="Campo Largo Arroz largo"
+    Descripcion="  Arroz largo.
+    1 kg
+    100% origen España.
+    Sin gluten, sin lactosa y vegano.
+    Marca: Campo Largo"
+    Coste="0.95" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/ar/arroz-largo-1-cat-de-lidl0-1647677717_m.jpg"/>
+    <Productos Nombre="Ocean Sea Salmón ahumado"
+    Descripcion="  Salmón ahumado.
+    28,45 €/ kg
+    200 g
+    Origen Noruega.
+    Salado a mano.
+    Sin gluten, sin lactosa.
+    Marca: Ocean Sea"
+    Coste="5.69" url="https://d2ohdpvxj0yo9f.cloudfront.net/products/sa/salmon-ahumado-11-de-lidl0-1647680302_m.jpg"/>
+</Productos>

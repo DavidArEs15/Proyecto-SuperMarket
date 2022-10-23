@@ -1,0 +1,19 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib">
+
+    <sys:String x:Key="lblTituloLogin">Login</sys:String>
+    <sys:String x:Key="lblUsuario">User</sys:String>
+    <sys:String x:Key="lblContrasena">Password</sys:String>
+    <sys:String x:Key="btnLogin">Login</sys:String>
+    <sys:String x:Key="lblRecordarContrasena">Forgot your password?</sys:String>
+    <sys:String x:Key="lblSelec_idioma">Choose a language:</sys:String>
+    <sys:String x:Key="lblIdioma">English</sys:String>
+    <sys:String x:Key="Para">To access the password, call the number 637982767</sys:String>
+    <sys:String x:Key="Recordar contraseña">Remember password</sys:String>
+
+    <sys:String x:Key="lblBuscar">Click to search for a product</sys:String>
+    <sys:String x:Key="btnProducto">Product info</sys:String>
+    
+    
+</ResourceDictionary>

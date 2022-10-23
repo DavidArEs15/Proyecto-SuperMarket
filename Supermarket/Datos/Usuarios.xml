@@ -1,0 +1,9 @@
+<Usuarios>
+	<Usuario User="DA" Nombre="David" Apellidos="Arias Escribano" FechaNac="24/10/2001" Direccion="c/Esperanza"  
+            Telefono ="483021748" Email="davidArias@gmail.com"/>
+    <Usuario User="IV" Nombre="Isabel" Apellidos="Gonzalez Vega" FechaNac="12/4/2000" Direccion="c/Toledo" 
+             Telefono ="678977485" Email="isabelGV@gmail.com" />
+    <Usuario User="GSI" Nombre="Gestión" Apellidos="de la Información" FechaNac="08/06/1996" Direccion="c/Feria" 
+            Telefono ="765021748"  Email="GSI@gmail.com" />
+	
+</Usuarios>
