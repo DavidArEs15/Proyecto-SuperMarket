@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{10887518-1AB5-4BF9-BEBF-F7073DCA2BAE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Eventos</RootNamespace>
+    <AssemblyName>Eventos</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Ayuda.cs" />
+    <Compile Include="AyudaW.xaml.cs">
+      <DependentUpon>AyudaW.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CestaCompra.xaml.cs">
+      <DependentUpon>CestaCompra.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pago.xaml.cs">
+      <DependentUpon>Pago.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Producto.cs" />
+    <Compile Include="Productos.xaml.cs">
+      <DependentUpon>Productos.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Perfil.cs" />
+    <Compile Include="Usuario.xaml.cs">
+      <DependentUpon>Usuario.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="VerProducto.xaml.cs">
+      <DependentUpon>VerProducto.xaml</DependentUpon>
+    </Compile>
+    <Page Include="AyudaW.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CestaCompra.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Pago.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Productos.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="resources\StringResources.en-UK.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="resources\StringResources.es-ES.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Usuario.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="VerProducto.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="imagenes\bandera_inglesacuadrado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="imagenes\spain.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="imagenes\english.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="imagenes\accesibilidad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="imagenes\greencheck.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="imagenes\redcrossbuena.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="imagenes\tickbueno.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="imagenes\User.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="imagenes\tarjeazulbueno.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="imagenes\tarjeazulH.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="imagenes\help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="imagenes\iconoatras.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="imagenes\eliminar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="imagenes\añadir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="imagenes\añadirbueno.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Datos\AyudaInfo.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="imagenes\reducirFuente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="imagenes\aumentarFuente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="imagenes\cestaCompra.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="imagenes\personaComprando.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="imagenes\FondoSuper.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="imagenes\compraonlineIcono.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="imagenes\iconoCarrito.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="imagenes\iconoCarrito2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="imagenes\iconoCarrito3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="imagenes\lupa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="imagenes\logoSuper.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="imagenes\notFound.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="imagenes\Tarjetas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Datos\Usuarios.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Datos\Productos.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

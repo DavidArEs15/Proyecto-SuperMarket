@@ -1,0 +1,35 @@
+﻿<Window x:Class="Eventos.AyudaW"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Eventos"
+        mc:Ignorable="d"
+        Title="AyudaW" Icon="imagenes/iconoCarrito2.png" Closing="Window_Closing" Initialized="Window_Initialized" ResizeMode="NoResize" Height="697.586" Width="930.587">
+    <Window.Background>
+        <SolidColorBrush Color="#FFB4FFD2"/>
+    </Window.Background>
+    <Grid Margin="0,0,-6,12" RenderTransformOrigin="0.494,0.693">
+        <Grid.Background>
+            <ImageBrush ImageSource="imagenes/help.png" Opacity="0.15" Stretch="Uniform">
+                <ImageBrush.RelativeTransform>
+                    <TransformGroup>
+                        <ScaleTransform CenterY="0.5" CenterX="0.5"/>
+                        <SkewTransform CenterY="0.5" CenterX="0.5"/>
+                        <RotateTransform CenterY="0.5" CenterX="0.5"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </ImageBrush.RelativeTransform>
+            </ImageBrush>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <ComboBox x:Name="cbVentanas" HorizontalAlignment="Left" Margin="11,64,0,0" VerticalAlignment="Top" Width="310" Height="30" ToolTip="Seleccione del menú desplegable la ventana de la que desea obtener información" SelectionChanged="cbVentanas_SelectionChanged" FontSize="14" Cursor="Hand"/>
+        <Label x:Name="lblVentana" Content="Seleccione la ventana en la que necesita ayuda:" HorizontalAlignment="Left" Margin="11,26,0,0" VerticalAlignment="Top" Background="{x:Null}" FontSize="14" FontWeight="Bold"/>
+        <Label x:Name="lblInfo" Content="Información:" HorizontalAlignment="Left" Margin="11,104,0,0" VerticalAlignment="Top" Background="{x:Null}" FontSize="14" FontWeight="Bold"/>
+        <Label x:Name="lblAyuda" Content="" HorizontalAlignment="Left" Margin="-96,135,-6,-26" VerticalAlignment="Center" ToolTip="Aquí se muestra la ayuda" Height="548" Width="1033" Background="{x:Null}"/>
+        <Label x:Name="lblInfo1" Content=" - Versión del sistema: 1.0.0&#xA;- Desarrollado por: &#xD;&#xA;  David Arias Escribano e&#xD;&#xA;  Isabel del Rosario González Vega&#xA;- Fecha de desarrollo: 6 de Abril de 2022" HorizontalAlignment="Left" Margin="718,10,0,0" VerticalAlignment="Top" Background="{x:Null}" FontStyle="Italic" FontSize="10" Opacity="0.5"/>
+
+    </Grid>
+</Window>
